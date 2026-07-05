@@ -1,0 +1,72 @@
+# 🚀 LeetCode Solutions
+
+Welcome to my **LeetCode Solutions** repository! This repository contains my solutions to various LeetCode problems solved during my Data Structures and Algorithms (DSA) practice.
+
+The primary goal of this repository is to improve my problem-solving skills, strengthen algorithmic thinking, and prepare for coding interviews.
+
+---
+
+## 📌 About
+
+* 💻 Language: **C++**
+* 🧠 Focus: Data Structures & Algorithms
+* 📈 Regularly updated with new solutions
+* ✨ Clean, optimized, and well-structured code
+
+---
+
+## 🎯 Topics Covered
+
+* Arrays
+* Strings
+* Hashing
+* Sorting
+* Binary Search
+* Two Pointers
+* Sliding Window
+* Stack
+* Queue
+* Linked List
+* Trees
+* Binary Search Trees
+* Heap / Priority Queue
+* Graphs
+* Greedy Algorithms
+* Dynamic Programming
+* Backtracking
+* Bit Manipulation
+* Prefix Sum
+* Trie
+* Union Find (DSU)
+* Segment Tree
+* Mathematics
+* Recursion
+
+---
+
+## 📊 Goals
+
+* Solve LeetCode problems consistently.
+* Learn multiple approaches for the same problem.
+* Improve coding speed and problem-solving skills.
+* Build a strong DSA foundation for technical interviews.
+
+---
+
+## 🛠️ Language Used
+
+* **C++ (STL)**
+
+---
+
+## 🤝 Contributions
+
+This repository is primarily for my personal learning journey. However, if you find a bug or have a better approach for any solution, feel free to open an issue or submit a pull request.
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a **⭐ Star**. It motivates me to keep solving and sharing more problems.
+
+Happy Coding! 🚀
