@@ -107,6 +107,7 @@ Happy Coding! 🚀
 | ------- |
 | [1035-uncrossed-lines](https://github.com/KA18202005/Leetcode-Questions/tree/master/1035-uncrossed-lines) |
 | [2140-solving-questions-with-brainpower](https://github.com/KA18202005/Leetcode-Questions/tree/master/2140-solving-questions-with-brainpower) |
+| [2466-count-ways-to-build-good-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2466-count-ways-to-build-good-strings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
