@@ -121,4 +121,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Tree
+|  |
+| ------- |
+| [1376-time-needed-to-inform-all-employees](https://github.com/KA18202005/Leetcode-Questions/tree/master/1376-time-needed-to-inform-all-employees) |
+## Depth-First Search
+|  |
+| ------- |
+| [1376-time-needed-to-inform-all-employees](https://github.com/KA18202005/Leetcode-Questions/tree/master/1376-time-needed-to-inform-all-employees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1376-time-needed-to-inform-all-employees](https://github.com/KA18202005/Leetcode-Questions/tree/master/1376-time-needed-to-inform-all-employees) |
 <!---LeetCode Topics End-->
