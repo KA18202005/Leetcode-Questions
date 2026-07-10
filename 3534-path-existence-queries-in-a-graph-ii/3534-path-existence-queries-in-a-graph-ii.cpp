@@ -45,7 +45,7 @@ public:
                     steps += (1 << j);
                 }
             }
-            if (st[curr][0] >= b) ans[i] = steps + 1;
+            if(st[curr][0] >= b) ans[i] = steps + 1;
             else ans[i] = -1;
         }
         return ans;
