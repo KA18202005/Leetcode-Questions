@@ -93,10 +93,12 @@ Happy Coding! 🚀
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/KA18202005/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/KA18202005/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -131,11 +133,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1376-time-needed-to-inform-all-employees](https://github.com/KA18202005/Leetcode-Questions/tree/master/1376-time-needed-to-inform-all-employees) |
+| [2685-count-the-number-of-complete-components](https://github.com/KA18202005/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KA18202005/Leetcode-Questions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/KA18202005/Leetcode-Questions/tree/master/1376-time-needed-to-inform-all-employees) |
+| [2685-count-the-number-of-complete-components](https://github.com/KA18202005/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
