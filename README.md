@@ -147,4 +147,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KA18202005/Leetcode-Questions/tree/master/0864-shortest-path-to-get-all-keys) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/KA18202005/Leetcode-Questions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
