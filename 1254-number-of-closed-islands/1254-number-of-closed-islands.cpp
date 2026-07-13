@@ -17,7 +17,7 @@ public:
         n = grid[0].size();
         int count = 0;
         for (int i = 0; i < m; i++) {
-            for (int j = 1; j < n; j++) {
+            for (int j = ; j < n; j++) {
                 if (grid[i][j] == 0) {
                     if (dfs(grid, i, j) == true) count++;
                 }
