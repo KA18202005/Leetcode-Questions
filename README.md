@@ -109,6 +109,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0997-find-the-town-judge) |
+| [1615-maximal-network-rank](https://github.com/KA18202005/Leetcode-Questions/tree/master/1615-maximal-network-rank) |
 | [2685-count-the-number-of-complete-components](https://github.com/KA18202005/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
