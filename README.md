@@ -95,6 +95,7 @@ Happy Coding! 🚀
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
 | [0997-find-the-town-judge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -118,6 +119,7 @@ Happy Coding! 🚀
 | [0997-find-the-town-judge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0997-find-the-town-judge) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/KA18202005/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1615-maximal-network-rank](https://github.com/KA18202005/Leetcode-Questions/tree/master/1615-maximal-network-rank) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/KA18202005/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -129,6 +131,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1035-uncrossed-lines](https://github.com/KA18202005/Leetcode-Questions/tree/master/1035-uncrossed-lines) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2140-solving-questions-with-brainpower](https://github.com/KA18202005/Leetcode-Questions/tree/master/2140-solving-questions-with-brainpower) |
 | [2466-count-ways-to-build-good-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2466-count-ways-to-build-good-strings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KA18202005/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -203,8 +206,18 @@ Happy Coding! 🚀
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
 | [0990-satisfiability-of-equality-equations](https://github.com/KA18202005/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/KA18202005/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Counting
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
