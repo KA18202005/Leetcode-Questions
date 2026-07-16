@@ -94,6 +94,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
+| [0981-time-based-key-value-store](https://github.com/KA18202005/Leetcode-Questions/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -101,6 +102,7 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0981-time-based-key-value-store](https://github.com/KA18202005/Leetcode-Questions/tree/master/0981-time-based-key-value-store) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
@@ -209,6 +211,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
+| [0981-time-based-key-value-store](https://github.com/KA18202005/Leetcode-Questions/tree/master/0981-time-based-key-value-store) |
 | [0990-satisfiability-of-equality-equations](https://github.com/KA18202005/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -229,4 +232,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KA18202005/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/KA18202005/Leetcode-Questions/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
