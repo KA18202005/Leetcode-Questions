@@ -104,6 +104,7 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/KA18202005/Leetcode-Questions/tree/master/0278-first-bad-version) |
 | [0981-time-based-key-value-store](https://github.com/KA18202005/Leetcode-Questions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1146-snapshot-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -240,4 +241,8 @@ Happy Coding! 🚀
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/KA18202005/Leetcode-Questions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1146-snapshot-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/KA18202005/Leetcode-Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
