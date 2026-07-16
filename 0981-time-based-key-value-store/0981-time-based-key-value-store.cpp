@@ -12,6 +12,7 @@ public:
     }
     
     string get(string key, int timestamp) {
+        if(mp.find(key) == mp.end()) return "";
         auto &temp = mp[key];
         int n = temp.size();
         string ans = "";
