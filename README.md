@@ -77,6 +77,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0275-h-index-ii) |
+| [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
@@ -112,6 +113,7 @@ Happy Coding! 🚀
 | [0275-h-index-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/KA18202005/Leetcode-Questions/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/KA18202005/Leetcode-Questions/tree/master/0441-arranging-coins) |
+| [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0981-time-based-key-value-store](https://github.com/KA18202005/Leetcode-Questions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1146-snapshot-array) |
@@ -217,6 +219,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/KA18202005/Leetcode-Questions/tree/master/0441-arranging-coins) |
+| [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KA18202005/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KA18202005/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -270,6 +273,7 @@ Happy Coding! 🚀
 ## Prefix Sum
 |  |
 | ------- |
+| [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
 |  |
@@ -279,4 +283,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
