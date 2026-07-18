@@ -77,6 +77,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0275-h-index-ii) |
+| [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KA18202005/Leetcode-Questions/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -110,6 +111,7 @@ Happy Coding! 🚀
 | [0275-h-index-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/KA18202005/Leetcode-Questions/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/KA18202005/Leetcode-Questions/tree/master/0441-arranging-coins) |
+| [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0981-time-based-key-value-store](https://github.com/KA18202005/Leetcode-Questions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1146-snapshot-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -139,6 +141,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KA18202005/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -162,6 +165,7 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KA18202005/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -263,4 +267,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
