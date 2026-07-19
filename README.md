@@ -90,6 +90,7 @@ Happy Coding! 🚀
 | [1331-rank-transform-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KA18202005/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/KA18202005/Leetcode-Questions/tree/master/2140-solving-questions-with-brainpower) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KA18202005/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -225,6 +226,7 @@ Happy Coding! 🚀
 | ------- |
 | [0441-arranging-coins](https://github.com/KA18202005/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KA18202005/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KA18202005/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
