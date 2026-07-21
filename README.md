@@ -218,6 +218,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/KA18202005/Leetcode-Questions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -250,6 +251,7 @@ Happy Coding! 🚀
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Topological Sort
 |  |
 | ------- |
