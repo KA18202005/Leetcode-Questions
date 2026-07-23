@@ -91,6 +91,7 @@ Happy Coding! 🚀
 | [1254-number-of-closed-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KA18202005/Leetcode-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KA18202005/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1572-matrix-diagonal-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
@@ -189,6 +190,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KA18202005/Leetcode-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KA18202005/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KA18202005/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
