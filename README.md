@@ -88,6 +88,7 @@ Happy Coding! 🚀
 | [0997-find-the-town-judge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0997-find-the-town-judge) |
 | [1035-uncrossed-lines](https://github.com/KA18202005/Leetcode-Questions/tree/master/1035-uncrossed-lines) |
 | [1146-snapshot-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1146-snapshot-array) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/KA18202005/Leetcode-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1254-number-of-closed-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -243,6 +244,7 @@ Happy Coding! 🚀
 | ------- |
 | [0441-arranging-coins](https://github.com/KA18202005/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/KA18202005/Leetcode-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KA18202005/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -335,4 +337,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/KA18202005/Leetcode-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
