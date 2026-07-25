@@ -110,6 +110,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/KA18202005/Leetcode-Questions/tree/master/0398-random-pick-index) |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
 | [0981-time-based-key-value-store](https://github.com/KA18202005/Leetcode-Questions/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0997-find-the-town-judge) |
@@ -243,6 +244,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/KA18202005/Leetcode-Questions/tree/master/0398-random-pick-index) |
 | [0441-arranging-coins](https://github.com/KA18202005/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
@@ -324,6 +326,7 @@ Happy Coding! 🚀
 ## Randomized
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/KA18202005/Leetcode-Questions/tree/master/0398-random-pick-index) |
 | [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
 ## Stack
 |  |
@@ -355,4 +358,8 @@ Happy Coding! 🚀
 | [1114-print-in-order](https://github.com/KA18202005/Leetcode-Questions/tree/master/1114-print-in-order) |
 | [1195-fizz-buzz-multithreaded](https://github.com/KA18202005/Leetcode-Questions/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/KA18202005/Leetcode-Questions/tree/master/1226-the-dining-philosophers) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/KA18202005/Leetcode-Questions/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
