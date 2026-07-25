@@ -148,6 +148,7 @@ Happy Coding! 🚀
 ## Graph Theory
 |  |
 | ------- |
+| [0753-cracking-the-safe](https://github.com/KA18202005/Leetcode-Questions/tree/master/0753-cracking-the-safe) |
 | [0990-satisfiability-of-equality-equations](https://github.com/KA18202005/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0997-find-the-town-judge) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/KA18202005/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -205,6 +206,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/0695-max-area-of-island) |
+| [0753-cracking-the-safe](https://github.com/KA18202005/Leetcode-Questions/tree/master/0753-cracking-the-safe) |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/KA18202005/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1254-number-of-closed-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
@@ -269,6 +271,7 @@ Happy Coding! 🚀
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/KA18202005/Leetcode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [0753-cracking-the-safe](https://github.com/KA18202005/Leetcode-Questions/tree/master/0753-cracking-the-safe) |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
 | [0981-time-based-key-value-store](https://github.com/KA18202005/Leetcode-Questions/tree/master/0981-time-based-key-value-store) |
 | [0990-satisfiability-of-equality-equations](https://github.com/KA18202005/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
@@ -362,4 +365,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/KA18202005/Leetcode-Questions/tree/master/0398-random-pick-index) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0753-cracking-the-safe](https://github.com/KA18202005/Leetcode-Questions/tree/master/0753-cracking-the-safe) |
 <!---LeetCode Topics End-->
