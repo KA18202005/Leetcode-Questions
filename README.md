@@ -78,6 +78,7 @@ Happy Coding! 🚀
 | ------- |
 | [0275-h-index-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0275-h-index-ii) |
 | [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/0695-max-area-of-island) |
@@ -191,6 +192,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KA18202005/Leetcode-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -250,6 +252,7 @@ Happy Coding! 🚀
 | [0441-arranging-coins](https://github.com/KA18202005/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/KA18202005/Leetcode-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
