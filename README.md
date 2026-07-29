@@ -79,6 +79,7 @@ Happy Coding! 🚀
 | [0275-h-index-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0275-h-index-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KA18202005/Leetcode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
@@ -154,6 +155,7 @@ Happy Coding! 🚀
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0753-cracking-the-safe](https://github.com/KA18202005/Leetcode-Questions/tree/master/0753-cracking-the-safe) |
 | [0990-satisfiability-of-equality-equations](https://github.com/KA18202005/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0997-find-the-town-judge) |
@@ -173,6 +175,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1035-uncrossed-lines](https://github.com/KA18202005/Leetcode-Questions/tree/master/1035-uncrossed-lines) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2140-solving-questions-with-brainpower](https://github.com/KA18202005/Leetcode-Questions/tree/master/2140-solving-questions-with-brainpower) |
@@ -216,6 +219,7 @@ Happy Coding! 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0753-cracking-the-safe](https://github.com/KA18202005/Leetcode-Questions/tree/master/0753-cracking-the-safe) |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
@@ -227,6 +231,7 @@ Happy Coding! 🚀
 ## Breadth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KA18202005/Leetcode-Questions/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -238,6 +243,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KA18202005/Leetcode-Questions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1254-number-of-closed-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
@@ -298,11 +304,13 @@ Happy Coding! 🚀
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/KA18202005/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Memoization
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Counting
 |  |
