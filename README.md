@@ -80,6 +80,7 @@ Happy Coding! 🚀
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KA18202005/Leetcode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/KA18202005/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -116,6 +117,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/KA18202005/Leetcode-Questions/tree/master/0398-random-pick-index) |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
@@ -136,6 +138,7 @@ Happy Coding! 🚀
 | [0275-h-index-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/KA18202005/Leetcode-Questions/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KA18202005/Leetcode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/KA18202005/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
@@ -174,6 +177,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KA18202005/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -212,6 +216,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
