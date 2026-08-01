@@ -80,6 +80,7 @@ Happy Coding! 🚀
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KA18202005/Leetcode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0486-predict-the-winner](https://github.com/KA18202005/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
@@ -181,6 +182,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0486-predict-the-winner](https://github.com/KA18202005/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [1035-uncrossed-lines](https://github.com/KA18202005/Leetcode-Questions/tree/master/1035-uncrossed-lines) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2140-solving-questions-with-brainpower](https://github.com/KA18202005/Leetcode-Questions/tree/master/2140-solving-questions-with-brainpower) |
@@ -281,6 +283,7 @@ Happy Coding! 🚀
 | [0398-random-pick-index](https://github.com/KA18202005/Leetcode-Questions/tree/master/0398-random-pick-index) |
 | [0441-arranging-coins](https://github.com/KA18202005/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/KA18202005/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/KA18202005/Leetcode-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -462,4 +465,9 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
+| [0486-predict-the-winner](https://github.com/KA18202005/Leetcode-Questions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/KA18202005/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
