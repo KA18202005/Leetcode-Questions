@@ -545,4 +545,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/KA18202005/Leetcode-Questions/tree/master/0183-customers-who-never-order) |
+| [1873-calculate-special-bonus](https://github.com/KA18202005/Leetcode-Questions/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
