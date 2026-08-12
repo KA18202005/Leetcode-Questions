@@ -120,6 +120,7 @@ Happy Coding! 🚀
 | [1822-sign-of-the-product-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/KA18202005/Leetcode-Questions/tree/master/2097-valid-arrangement-of-pairs) |
 | [2140-solving-questions-with-brainpower](https://github.com/KA18202005/Leetcode-Questions/tree/master/2140-solving-questions-with-brainpower) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KA18202005/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KA18202005/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -148,6 +149,7 @@ Happy Coding! 🚀
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2405-optimal-partition-of-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2405-optimal-partition-of-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KA18202005/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -471,6 +473,7 @@ Happy Coding! 🚀
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KA18202005/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
