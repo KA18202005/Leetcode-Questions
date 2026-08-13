@@ -470,6 +470,7 @@ Happy Coding! 🚀
 | [0384-shuffle-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0384-shuffle-an-array) |
 | [0981-time-based-key-value-store](https://github.com/KA18202005/Leetcode-Questions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1146-snapshot-array) |
+| [2102-sequentially-ordinal-rank-tracker](https://github.com/KA18202005/Leetcode-Questions/tree/master/2102-sequentially-ordinal-rank-tracker) |
 ## Interactive
 |  |
 | ------- |
@@ -504,6 +505,7 @@ Happy Coding! 🚀
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [2102-sequentially-ordinal-rank-tracker](https://github.com/KA18202005/Leetcode-Questions/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
@@ -579,6 +581,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KA18202005/Leetcode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2102-sequentially-ordinal-rank-tracker](https://github.com/KA18202005/Leetcode-Questions/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KA18202005/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Quickselect
 |  |
@@ -677,4 +680,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
+## Data Stream
+|  |
+| ------- |
+| [2102-sequentially-ordinal-rank-tracker](https://github.com/KA18202005/Leetcode-Questions/tree/master/2102-sequentially-ordinal-rank-tracker) |
 <!---LeetCode Topics End-->
