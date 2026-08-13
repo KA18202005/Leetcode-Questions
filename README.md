@@ -232,6 +232,7 @@ Happy Coding! 🚀
 | [0486-predict-the-winner](https://github.com/KA18202005/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/0647-palindromic-substrings) |
+| [0664-strange-printer](https://github.com/KA18202005/Leetcode-Questions/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
@@ -417,6 +418,7 @@ Happy Coding! 🚀
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/KA18202005/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/0647-palindromic-substrings) |
+| [0664-strange-printer](https://github.com/KA18202005/Leetcode-Questions/tree/master/0664-strange-printer) |
 | [0753-cracking-the-safe](https://github.com/KA18202005/Leetcode-Questions/tree/master/0753-cracking-the-safe) |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
 | [0843-guess-the-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0843-guess-the-word) |
