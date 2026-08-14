@@ -267,6 +267,7 @@ Happy Coding! 🚀
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/KA18202005/Leetcode-Questions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/KA18202005/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/KA18202005/Leetcode-Questions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2405-optimal-partition-of-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2405-optimal-partition-of-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -434,6 +435,7 @@ Happy Coding! 🚀
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/KA18202005/Leetcode-Questions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KA18202005/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2272-substring-with-largest-variance](https://github.com/KA18202005/Leetcode-Questions/tree/master/2272-substring-with-largest-variance) |
