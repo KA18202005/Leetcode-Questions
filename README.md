@@ -77,6 +77,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0275-h-index-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0275-h-index-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KA18202005/Leetcode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
@@ -142,6 +143,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/0389-find-the-difference) |
@@ -313,6 +315,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0101-symmetric-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/KA18202005/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0572-subtree-of-another-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/KA18202005/Leetcode-Questions/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -587,6 +590,7 @@ Happy Coding! 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KA18202005/Leetcode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -646,6 +650,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0101-symmetric-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
