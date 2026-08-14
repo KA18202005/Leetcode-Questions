@@ -124,6 +124,7 @@ Happy Coding! 🚀
 | [2100-find-good-days-to-rob-the-bank](https://github.com/KA18202005/Leetcode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2140-solving-questions-with-brainpower](https://github.com/KA18202005/Leetcode-Questions/tree/master/2140-solving-questions-with-brainpower) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KA18202005/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/KA18202005/Leetcode-Questions/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
@@ -499,6 +500,7 @@ Happy Coding! 🚀
 | [1140-stone-game-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/KA18202005/Leetcode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2222-number-of-ways-to-select-buildings) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/KA18202005/Leetcode-Questions/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
@@ -535,11 +537,13 @@ Happy Coding! 🚀
 | [0445-add-two-numbers-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/KA18202005/Leetcode-Questions/tree/master/2281-sum-of-total-strength-of-wizards) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/KA18202005/Leetcode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/KA18202005/Leetcode-Questions/tree/master/2281-sum-of-total-strength-of-wizards) |
 ## Segment Tree
 |  |
 | ------- |
