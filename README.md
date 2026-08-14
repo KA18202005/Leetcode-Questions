@@ -237,6 +237,7 @@ Happy Coding! 🚀
 | [0647-palindromic-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/KA18202005/Leetcode-Questions/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0818-race-car](https://github.com/KA18202005/Leetcode-Questions/tree/master/0818-race-car) |
 | [0877-stone-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/KA18202005/Leetcode-Questions/tree/master/1035-uncrossed-lines) |
@@ -700,4 +701,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/KA18202005/Leetcode-Questions/tree/master/2102-sequentially-ordinal-rank-tracker) |
+## Heuristic Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/KA18202005/Leetcode-Questions/tree/master/0818-race-car) |
+## A* Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/KA18202005/Leetcode-Questions/tree/master/0818-race-car) |
 <!---LeetCode Topics End-->
