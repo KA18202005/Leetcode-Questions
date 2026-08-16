@@ -249,6 +249,7 @@ Happy Coding! 🚀
 | ------- |
 | [0063-unique-paths-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0233-number-of-digit-one](https://github.com/KA18202005/Leetcode-Questions/tree/master/0233-number-of-digit-one) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0376-wiggle-subsequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0376-wiggle-subsequence) |
 | [0464-can-i-win](https://github.com/KA18202005/Leetcode-Questions/tree/master/0464-can-i-win) |
@@ -427,6 +428,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/KA18202005/Leetcode-Questions/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0384-shuffle-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/KA18202005/Leetcode-Questions/tree/master/0398-random-pick-index) |
@@ -689,6 +691,7 @@ Happy Coding! 🚀
 ## Recursion
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/KA18202005/Leetcode-Questions/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/KA18202005/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0509-fibonacci-number) |
