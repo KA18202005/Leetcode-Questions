@@ -268,6 +268,7 @@ Happy Coding! 🚀
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/KA18202005/Leetcode-Questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0931-minimum-falling-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/KA18202005/Leetcode-Questions/tree/master/0968-binary-tree-cameras) |
+| [1012-numbers-with-repeated-digits](https://github.com/KA18202005/Leetcode-Questions/tree/master/1012-numbers-with-repeated-digits) |
 | [1035-uncrossed-lines](https://github.com/KA18202005/Leetcode-Questions/tree/master/1035-uncrossed-lines) |
 | [1140-stone-game-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -447,6 +448,7 @@ Happy Coding! 🚀
 | [0877-stone-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/KA18202005/Leetcode-Questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0973-k-closest-points-to-origin](https://github.com/KA18202005/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
+| [1012-numbers-with-repeated-digits](https://github.com/KA18202005/Leetcode-Questions/tree/master/1012-numbers-with-repeated-digits) |
 | [1140-stone-game-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/KA18202005/Leetcode-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1406-stone-game-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1406-stone-game-iii) |
