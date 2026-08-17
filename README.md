@@ -122,6 +122,7 @@ Happy Coding! 🚀
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KA18202005/Leetcode-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KA18202005/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1563-stone-game-v](https://github.com/KA18202005/Leetcode-Questions/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/KA18202005/Leetcode-Questions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1572-matrix-diagonal-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
@@ -275,6 +276,7 @@ Happy Coding! 🚀
 | [1406-stone-game-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/KA18202005/Leetcode-Questions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/KA18202005/Leetcode-Questions/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/KA18202005/Leetcode-Questions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/KA18202005/Leetcode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -453,6 +455,7 @@ Happy Coding! 🚀
 | [1232-check-if-it-is-a-straight-line](https://github.com/KA18202005/Leetcode-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1406-stone-game-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KA18202005/Leetcode-Questions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/KA18202005/Leetcode-Questions/tree/master/1563-stone-game-v) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2029-stone-game-ix](https://github.com/KA18202005/Leetcode-Questions/tree/master/2029-stone-game-ix) |
@@ -712,6 +715,7 @@ Happy Coding! 🚀
 | [1140-stone-game-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KA18202005/Leetcode-Questions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/KA18202005/Leetcode-Questions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/KA18202005/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
