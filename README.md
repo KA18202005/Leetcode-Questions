@@ -285,6 +285,7 @@ Happy Coding! 🚀
 | [2272-substring-with-largest-variance](https://github.com/KA18202005/Leetcode-Questions/tree/master/2272-substring-with-largest-variance) |
 | [2466-count-ways-to-build-good-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2466-count-ways-to-build-good-strings) |
 | [2484-count-palindromic-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/2484-count-palindromic-subsequences) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/KA18202005/Leetcode-Questions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KA18202005/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -403,6 +404,7 @@ Happy Coding! 🚀
 | [1376-time-needed-to-inform-all-employees](https://github.com/KA18202005/Leetcode-Questions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/KA18202005/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/KA18202005/Leetcode-Questions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3310-remove-methods-from-project](https://github.com/KA18202005/Leetcode-Questions/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
@@ -533,6 +535,7 @@ Happy Coding! 🚀
 | [0509-fibonacci-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/KA18202005/Leetcode-Questions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Counting
 |  |
 | ------- |
