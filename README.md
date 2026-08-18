@@ -288,6 +288,7 @@ Happy Coding! 🚀
 | [1563-stone-game-v](https://github.com/KA18202005/Leetcode-Questions/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/KA18202005/Leetcode-Questions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/KA18202005/Leetcode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2140-solving-questions-with-brainpower](https://github.com/KA18202005/Leetcode-Questions/tree/master/2140-solving-questions-with-brainpower) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2222-number-of-ways-to-select-buildings) |
@@ -312,6 +313,7 @@ Happy Coding! 🚀
 | [1710-maximum-units-on-a-truck](https://github.com/KA18202005/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/KA18202005/Leetcode-Questions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2029-stone-game-ix](https://github.com/KA18202005/Leetcode-Questions/tree/master/2029-stone-game-ix) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2405-optimal-partition-of-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2405-optimal-partition-of-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -523,6 +525,7 @@ Happy Coding! 🚀
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/KA18202005/Leetcode-Questions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2055-plates-between-candles](https://github.com/KA18202005/Leetcode-Questions/tree/master/2055-plates-between-candles) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KA18202005/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2272-substring-with-largest-variance](https://github.com/KA18202005/Leetcode-Questions/tree/master/2272-substring-with-largest-variance) |
