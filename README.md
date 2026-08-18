@@ -105,6 +105,7 @@ Happy Coding! 🚀
 | [0843-guess-the-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0843-guess-the-word) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KA18202005/Leetcode-Questions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0877-stone-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0879-profitable-schemes) |
 | [0896-monotonic-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0896-monotonic-array) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/KA18202005/Leetcode-Questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0931-minimum-falling-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
@@ -278,6 +279,7 @@ Happy Coding! 🚀
 | [0818-race-car](https://github.com/KA18202005/Leetcode-Questions/tree/master/0818-race-car) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0877-stone-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0879-profitable-schemes) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/KA18202005/Leetcode-Questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0931-minimum-falling-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/KA18202005/Leetcode-Questions/tree/master/0968-binary-tree-cameras) |
@@ -864,4 +866,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/KA18202005/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0879-profitable-schemes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0879-profitable-schemes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0879-profitable-schemes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0879-profitable-schemes) |
 <!---LeetCode Topics End-->
