@@ -146,6 +146,7 @@ Happy Coding! 🚀
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/KA18202005/Leetcode-Questions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KA18202005/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/KA18202005/Leetcode-Questions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -328,6 +329,7 @@ Happy Coding! 🚀
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2405-optimal-partition-of-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2405-optimal-partition-of-string) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/KA18202005/Leetcode-Questions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -371,6 +373,7 @@ Happy Coding! 🚀
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KA18202005/Leetcode-Questions/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2386-find-the-k-sum-of-an-array) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/KA18202005/Leetcode-Questions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -616,6 +619,7 @@ Happy Coding! 🚀
 | [2222-number-of-ways-to-select-buildings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/KA18202005/Leetcode-Questions/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/KA18202005/Leetcode-Questions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
 |  |
@@ -884,4 +888,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0879-profitable-schemes) |
+## Polygons
+|  |
+| ------- |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/KA18202005/Leetcode-Questions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 <!---LeetCode Topics End-->
