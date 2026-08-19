@@ -114,6 +114,7 @@ Happy Coding! 🚀
 | [0973-k-closest-points-to-origin](https://github.com/KA18202005/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [0990-satisfiability-of-equality-equations](https://github.com/KA18202005/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0997-find-the-town-judge) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/KA18202005/Leetcode-Questions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1035-uncrossed-lines](https://github.com/KA18202005/Leetcode-Questions/tree/master/1035-uncrossed-lines) |
 | [1140-stone-game-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1146-snapshot-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1146-snapshot-array) |
@@ -290,6 +291,7 @@ Happy Coding! 🚀
 | [0931-minimum-falling-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [0956-tallest-billboard](https://github.com/KA18202005/Leetcode-Questions/tree/master/0956-tallest-billboard) |
 | [0968-binary-tree-cameras](https://github.com/KA18202005/Leetcode-Questions/tree/master/0968-binary-tree-cameras) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/KA18202005/Leetcode-Questions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1012-numbers-with-repeated-digits](https://github.com/KA18202005/Leetcode-Questions/tree/master/1012-numbers-with-repeated-digits) |
 | [1035-uncrossed-lines](https://github.com/KA18202005/Leetcode-Questions/tree/master/1035-uncrossed-lines) |
 | [1140-stone-game-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1140-stone-game-ii) |
@@ -615,6 +617,7 @@ Happy Coding! 🚀
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/KA18202005/Leetcode-Questions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1140-stone-game-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [2055-plates-between-candles](https://github.com/KA18202005/Leetcode-Questions/tree/master/2055-plates-between-candles) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/KA18202005/Leetcode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
