@@ -101,6 +101,7 @@ Happy Coding! 🚀
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/KA18202005/Leetcode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0722-remove-comments](https://github.com/KA18202005/Leetcode-Questions/tree/master/0722-remove-comments) |
+| [0741-cherry-pickup](https://github.com/KA18202005/Leetcode-Questions/tree/master/0741-cherry-pickup) |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
 | [0843-guess-the-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0843-guess-the-word) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KA18202005/Leetcode-Questions/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -287,6 +288,7 @@ Happy Coding! 🚀
 | [0664-strange-printer](https://github.com/KA18202005/Leetcode-Questions/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0741-cherry-pickup](https://github.com/KA18202005/Leetcode-Questions/tree/master/0741-cherry-pickup) |
 | [0818-race-car](https://github.com/KA18202005/Leetcode-Questions/tree/master/0818-race-car) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0877-stone-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0877-stone-game) |
@@ -455,6 +457,7 @@ Happy Coding! 🚀
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/0695-max-area-of-island) |
+| [0741-cherry-pickup](https://github.com/KA18202005/Leetcode-Questions/tree/master/0741-cherry-pickup) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KA18202005/Leetcode-Questions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0931-minimum-falling-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
