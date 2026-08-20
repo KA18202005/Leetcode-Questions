@@ -151,6 +151,7 @@ Happy Coding! 🚀
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/KA18202005/Leetcode-Questions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KA18202005/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KA18202005/Leetcode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -593,6 +594,7 @@ Happy Coding! 🚀
 | [0682-baseball-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KA18202005/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
