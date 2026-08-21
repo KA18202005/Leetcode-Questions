@@ -155,6 +155,7 @@ Happy Coding! 🚀
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KA18202005/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KA18202005/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -614,6 +615,7 @@ Happy Coding! 🚀
 | [2028-find-missing-observations](https://github.com/KA18202005/Leetcode-Questions/tree/master/2028-find-missing-observations) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KA18202005/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
@@ -698,6 +700,7 @@ Happy Coding! 🚀
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KA18202005/Leetcode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KA18202005/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Geometry
 |  |
@@ -740,6 +743,7 @@ Happy Coding! 🚀
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KA18202005/Leetcode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 ## Merge Sort
 |  |
 | ------- |
