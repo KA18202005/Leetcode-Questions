@@ -147,6 +147,7 @@ Happy Coding! 🚀
 | [2100-find-good-days-to-rob-the-bank](https://github.com/KA18202005/Leetcode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2140-solving-questions-with-brainpower](https://github.com/KA18202005/Leetcode-Questions/tree/master/2140-solving-questions-with-brainpower) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KA18202005/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2239-find-closest-number-to-zero](https://github.com/KA18202005/Leetcode-Questions/tree/master/2239-find-closest-number-to-zero) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/KA18202005/Leetcode-Questions/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KA18202005/Leetcode-Questions/tree/master/2332-the-latest-time-to-catch-a-bus) |
