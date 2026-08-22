@@ -138,6 +138,7 @@ Happy Coding! 🚀
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/KA18202005/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2007-find-original-array-from-doubled-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2028-find-missing-observations](https://github.com/KA18202005/Leetcode-Questions/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/KA18202005/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 | [2055-plates-between-candles](https://github.com/KA18202005/Leetcode-Questions/tree/master/2055-plates-between-candles) |
@@ -192,6 +193,7 @@ Happy Coding! 🚀
 | [1386-cinema-seat-allocation](https://github.com/KA18202005/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2007-find-original-array-from-doubled-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2272-substring-with-largest-variance](https://github.com/KA18202005/Leetcode-Questions/tree/master/2272-substring-with-largest-variance) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2405-optimal-partition-of-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2405-optimal-partition-of-string) |
@@ -344,6 +346,7 @@ Happy Coding! 🚀
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/KA18202005/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/KA18202005/Leetcode-Questions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [2007-find-original-array-from-doubled-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2029-stone-game-ix](https://github.com/KA18202005/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -390,6 +393,7 @@ Happy Coding! 🚀
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/KA18202005/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
+| [2007-find-original-array-from-doubled-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KA18202005/Leetcode-Questions/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2386-find-the-k-sum-of-an-array) |
