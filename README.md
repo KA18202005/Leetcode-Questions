@@ -126,6 +126,7 @@ Happy Coding! 🚀
 | [1254-number-of-closed-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
 | [1386-cinema-seat-allocation](https://github.com/KA18202005/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1463-cherry-pickup-ii) |
@@ -317,6 +318,7 @@ Happy Coding! 🚀
 | [1035-uncrossed-lines](https://github.com/KA18202005/Leetcode-Questions/tree/master/1035-uncrossed-lines) |
 | [1140-stone-game-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1463-cherry-pickup-ii) |
@@ -372,6 +374,7 @@ Happy Coding! 🚀
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KA18202005/Leetcode-Questions/tree/master/0864-shortest-path-to-get-all-keys) |
+| [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
 | [1386-cinema-seat-allocation](https://github.com/KA18202005/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/KA18202005/Leetcode-Questions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KA18202005/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -485,6 +488,7 @@ Happy Coding! 🚀
 | [0931-minimum-falling-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
 | [1463-cherry-pickup-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1463-cherry-pickup-ii) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1572-matrix-diagonal-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
@@ -928,6 +932,7 @@ Happy Coding! 🚀
 | [0691-stickers-to-spell-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/KA18202005/Leetcode-Questions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## K-D Tree
 |  |
@@ -941,6 +946,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/KA18202005/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
+| [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -963,4 +969,40 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Maximum Flow
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
+## Maximum Matching
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
+## Edmonds–Karp Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
+## MPM Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
+## Push-Relabel Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
+## Minimum Cut
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
+## Matching (Graph)
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
+## Flow Network
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
+## Dinic's Algorithm
+|  |
+| ------- |
+| [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
 <!---LeetCode Topics End-->
