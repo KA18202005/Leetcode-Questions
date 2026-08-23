@@ -156,6 +156,7 @@ Happy Coding! 🚀
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/KA18202005/Leetcode-Questions/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/KA18202005/Leetcode-Questions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KA18202005/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/KA18202005/Leetcode-Questions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
@@ -232,6 +233,7 @@ Happy Coding! 🚀
 | [2055-plates-between-candles](https://github.com/KA18202005/Leetcode-Questions/tree/master/2055-plates-between-candles) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KA18202005/Leetcode-Questions/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/KA18202005/Leetcode-Questions/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KA18202005/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -787,6 +789,7 @@ Happy Coding! 🚀
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KA18202005/Leetcode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/KA18202005/Leetcode-Questions/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KA18202005/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/KA18202005/Leetcode-Questions/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 ## Quickselect
 |  |
 | ------- |
