@@ -143,6 +143,7 @@ Happy Coding! 🚀
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/KA18202005/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1872-stone-game-viii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [2007-find-original-array-from-doubled-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2028-find-missing-observations](https://github.com/KA18202005/Leetcode-Questions/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/KA18202005/Leetcode-Questions/tree/master/2029-stone-game-ix) |
@@ -333,6 +334,7 @@ Happy Coding! 🚀
 | [1563-stone-game-v](https://github.com/KA18202005/Leetcode-Questions/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/KA18202005/Leetcode-Questions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1872-stone-game-viii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/KA18202005/Leetcode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2140-solving-questions-with-brainpower](https://github.com/KA18202005/Leetcode-Questions/tree/master/2140-solving-questions-with-brainpower) |
@@ -545,6 +547,7 @@ Happy Coding! 🚀
 | [1563-stone-game-v](https://github.com/KA18202005/Leetcode-Questions/tree/master/1563-stone-game-v) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1872-stone-game-viii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1927-sum-game) |
 | [2028-find-missing-observations](https://github.com/KA18202005/Leetcode-Questions/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/KA18202005/Leetcode-Questions/tree/master/2029-stone-game-ix) |
@@ -688,6 +691,7 @@ Happy Coding! 🚀
 | [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/KA18202005/Leetcode-Questions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1140-stone-game-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [2055-plates-between-candles](https://github.com/KA18202005/Leetcode-Questions/tree/master/2055-plates-between-candles) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/KA18202005/Leetcode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2222-number-of-ways-to-select-buildings) |
@@ -840,6 +844,7 @@ Happy Coding! 🚀
 | [1406-stone-game-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KA18202005/Leetcode-Questions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/KA18202005/Leetcode-Questions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/KA18202005/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 ## String Matching
@@ -885,12 +890,14 @@ Happy Coding! 🚀
 | [0843-guess-the-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0843-guess-the-word) |
 | [1140-stone-game-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/KA18202005/Leetcode-Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/KA18202005/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/KA18202005/Leetcode-Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/KA18202005/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 ## Longest Increasing Subsequence
 |  |
