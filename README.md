@@ -89,6 +89,7 @@ Happy Coding! 🚀
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0384-shuffle-an-array) |
 | [0410-split-array-largest-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0454-4sum-ii) |
 | [0472-concatenated-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0472-concatenated-words) |
 | [0477-total-hamming-distance](https://github.com/KA18202005/Leetcode-Questions/tree/master/0477-total-hamming-distance) |
@@ -540,6 +541,7 @@ Happy Coding! 🚀
 | [0412-fizz-buzz](https://github.com/KA18202005/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/KA18202005/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0464-can-i-win](https://github.com/KA18202005/Leetcode-Questions/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/KA18202005/Leetcode-Questions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/KA18202005/Leetcode-Questions/tree/master/0486-predict-the-winner) |
