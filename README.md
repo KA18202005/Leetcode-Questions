@@ -206,6 +206,7 @@ Happy Coding! 🚀
 | [1366-rank-teams-by-votes](https://github.com/KA18202005/Leetcode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1386-cinema-seat-allocation](https://github.com/KA18202005/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KA18202005/Leetcode-Questions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2007-find-original-array-from-doubled-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2272-substring-with-largest-variance](https://github.com/KA18202005/Leetcode-Questions/tree/master/2272-substring-with-largest-variance) |
@@ -370,6 +371,7 @@ Happy Coding! 🚀
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/KA18202005/Leetcode-Questions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1642-furthest-building-you-can-reach](https://github.com/KA18202005/Leetcode-Questions/tree/master/1642-furthest-building-you-can-reach) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KA18202005/Leetcode-Questions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/KA18202005/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/KA18202005/Leetcode-Questions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
@@ -425,6 +427,7 @@ Happy Coding! 🚀
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KA18202005/Leetcode-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KA18202005/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KA18202005/Leetcode-Questions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/KA18202005/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [2007-find-original-array-from-doubled-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
@@ -621,6 +624,7 @@ Happy Coding! 🚀
 | [1366-rank-teams-by-votes](https://github.com/KA18202005/Leetcode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1405-longest-happy-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/1405-longest-happy-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KA18202005/Leetcode-Questions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/KA18202005/Leetcode-Questions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1927-sum-game) |
