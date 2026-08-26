@@ -138,6 +138,7 @@ Happy Coding! 🚀
 | [1473-paint-house-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1473-paint-house-iii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KA18202005/Leetcode-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KA18202005/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/KA18202005/Leetcode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/KA18202005/Leetcode-Questions/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/KA18202005/Leetcode-Questions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -342,6 +343,7 @@ Happy Coding! 🚀
 | [1463-cherry-pickup-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1463-cherry-pickup-ii) |
 | [1473-paint-house-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1473-paint-house-iii) |
 | [1510-stone-game-iv](https://github.com/KA18202005/Leetcode-Questions/tree/master/1510-stone-game-iv) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/KA18202005/Leetcode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/KA18202005/Leetcode-Questions/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/KA18202005/Leetcode-Questions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -430,6 +432,7 @@ Happy Coding! 🚀
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KA18202005/Leetcode-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KA18202005/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/KA18202005/Leetcode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KA18202005/Leetcode-Questions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/KA18202005/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
