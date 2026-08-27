@@ -298,6 +298,7 @@ Happy Coding! 🚀
 | [0647-palindromic-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/KA18202005/Leetcode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KA18202005/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KA18202005/Leetcode-Questions/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -628,6 +629,7 @@ Happy Coding! 🚀
 | [0691-stickers-to-spell-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0691-stickers-to-spell-word) |
 | [0722-remove-comments](https://github.com/KA18202005/Leetcode-Questions/tree/master/0722-remove-comments) |
 | [0753-cracking-the-safe](https://github.com/KA18202005/Leetcode-Questions/tree/master/0753-cracking-the-safe) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
 | [0843-guess-the-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0843-guess-the-word) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/KA18202005/Leetcode-Questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
