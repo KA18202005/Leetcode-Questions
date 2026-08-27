@@ -91,6 +91,7 @@ Happy Coding! 🚀
 | [0410-split-array-largest-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0454-4sum-ii) |
+| [0455-assign-cookies](https://github.com/KA18202005/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0472-concatenated-words) |
 | [0477-total-hamming-distance](https://github.com/KA18202005/Leetcode-Questions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/KA18202005/Leetcode-Questions/tree/master/0486-predict-the-winner) |
@@ -294,6 +295,7 @@ Happy Coding! 🚀
 | ------- |
 | [0344-reverse-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/KA18202005/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
@@ -374,6 +376,7 @@ Happy Coding! 🚀
 | [0324-wiggle-sort-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/KA18202005/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/KA18202005/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
@@ -426,6 +429,7 @@ Happy Coding! 🚀
 | [0350-intersection-of-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/KA18202005/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
@@ -1082,4 +1086,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/KA18202005/Leetcode-Questions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
