@@ -170,6 +170,7 @@ Happy Coding! 🚀
 | [2140-solving-questions-with-brainpower](https://github.com/KA18202005/Leetcode-Questions/tree/master/2140-solving-questions-with-brainpower) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KA18202005/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2239-find-closest-number-to-zero](https://github.com/KA18202005/Leetcode-Questions/tree/master/2239-find-closest-number-to-zero) |
+| [2242-maximum-score-of-a-node-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/KA18202005/Leetcode-Questions/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KA18202005/Leetcode-Questions/tree/master/2332-the-latest-time-to-catch-a-bus) |
@@ -300,6 +301,7 @@ Happy Coding! 🚀
 | [2097-valid-arrangement-of-pairs](https://github.com/KA18202005/Leetcode-Questions/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/KA18202005/Leetcode-Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/KA18202005/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2242-maximum-score-of-a-node-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/KA18202005/Leetcode-Questions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/KA18202005/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -471,6 +473,7 @@ Happy Coding! 🚀
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/KA18202005/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [2007-find-original-array-from-doubled-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2242-maximum-score-of-a-node-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KA18202005/Leetcode-Questions/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2386-find-the-k-sum-of-an-array) |
@@ -576,6 +579,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/KA18202005/Leetcode-Questions/tree/master/1291-sequential-digits) |
+| [2242-maximum-score-of-a-node-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/KA18202005/Leetcode-Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2272-substring-with-largest-variance](https://github.com/KA18202005/Leetcode-Questions/tree/master/2272-substring-with-largest-variance) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
