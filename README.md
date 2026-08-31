@@ -165,6 +165,7 @@ Happy Coding! 🚀
 | [2097-valid-arrangement-of-pairs](https://github.com/KA18202005/Leetcode-Questions/tree/master/2097-valid-arrangement-of-pairs) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/KA18202005/Leetcode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2101-detonate-the-maximum-bombs](https://github.com/KA18202005/Leetcode-Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/KA18202005/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2140-solving-questions-with-brainpower](https://github.com/KA18202005/Leetcode-Questions/tree/master/2140-solving-questions-with-brainpower) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KA18202005/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2239-find-closest-number-to-zero](https://github.com/KA18202005/Leetcode-Questions/tree/master/2239-find-closest-number-to-zero) |
@@ -224,6 +225,7 @@ Happy Coding! 🚀
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/KA18202005/Leetcode-Questions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2007-find-original-array-from-doubled-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/KA18202005/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2272-substring-with-largest-variance](https://github.com/KA18202005/Leetcode-Questions/tree/master/2272-substring-with-largest-variance) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2405-optimal-partition-of-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2405-optimal-partition-of-string) |
@@ -296,6 +298,7 @@ Happy Coding! 🚀
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/KA18202005/Leetcode-Questions/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/KA18202005/Leetcode-Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/KA18202005/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/KA18202005/Leetcode-Questions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/KA18202005/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -685,6 +688,7 @@ Happy Coding! 🚀
 | [2055-plates-between-candles](https://github.com/KA18202005/Leetcode-Questions/tree/master/2055-plates-between-candles) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KA18202005/Leetcode-Questions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/KA18202005/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KA18202005/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -710,6 +714,7 @@ Happy Coding! 🚀
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/KA18202005/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/KA18202005/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Memoization
 |  |
@@ -1138,4 +1143,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KA18202005/Leetcode-Questions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/KA18202005/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
