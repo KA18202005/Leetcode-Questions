@@ -177,6 +177,7 @@ Happy Coding! 🚀
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/KA18202005/Leetcode-Questions/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/KA18202005/Leetcode-Questions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -705,6 +706,7 @@ Happy Coding! 🚀
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/KA18202005/Leetcode-Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2272-substring-with-largest-variance](https://github.com/KA18202005/Leetcode-Questions/tree/master/2272-substring-with-largest-variance) |
 | [2405-optimal-partition-of-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2405-optimal-partition-of-string) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2484-count-palindromic-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/2484-count-palindromic-subsequences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -746,6 +748,7 @@ Happy Coding! 🚀
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/KA18202005/Leetcode-Questions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2029-stone-game-ix](https://github.com/KA18202005/Leetcode-Questions/tree/master/2029-stone-game-ix) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -1060,6 +1063,7 @@ Happy Coding! 🚀
 | ------- |
 | [0472-concatenated-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0472-concatenated-words) |
 | [0792-number-of-matching-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0792-number-of-matching-subsequences) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Binary Search Tree
 |  |
 | ------- |
