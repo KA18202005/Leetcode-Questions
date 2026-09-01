@@ -151,6 +151,7 @@ Happy Coding! 🚀
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1572-matrix-diagonal-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/KA18202005/Leetcode-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1610-maximum-number-of-visible-points](https://github.com/KA18202005/Leetcode-Questions/tree/master/1610-maximum-number-of-visible-points) |
 | [1642-furthest-building-you-can-reach](https://github.com/KA18202005/Leetcode-Questions/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/KA18202005/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
@@ -473,6 +474,7 @@ Happy Coding! 🚀
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KA18202005/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/KA18202005/Leetcode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1610-maximum-number-of-visible-points](https://github.com/KA18202005/Leetcode-Questions/tree/master/1610-maximum-number-of-visible-points) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KA18202005/Leetcode-Questions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/KA18202005/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
@@ -626,6 +628,7 @@ Happy Coding! 🚀
 | [1406-stone-game-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KA18202005/Leetcode-Questions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/KA18202005/Leetcode-Questions/tree/master/1563-stone-game-v) |
+| [1610-maximum-number-of-visible-points](https://github.com/KA18202005/Leetcode-Questions/tree/master/1610-maximum-number-of-visible-points) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1872-stone-game-viii) |
@@ -808,6 +811,7 @@ Happy Coding! 🚀
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/KA18202005/Leetcode-Questions/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1610-maximum-number-of-visible-points](https://github.com/KA18202005/Leetcode-Questions/tree/master/1610-maximum-number-of-visible-points) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KA18202005/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -865,6 +869,7 @@ Happy Coding! 🚀
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/KA18202005/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/KA18202005/Leetcode-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1610-maximum-number-of-visible-points](https://github.com/KA18202005/Leetcode-Questions/tree/master/1610-maximum-number-of-visible-points) |
 | [2101-detonate-the-maximum-bombs](https://github.com/KA18202005/Leetcode-Questions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Linked List
 |  |
