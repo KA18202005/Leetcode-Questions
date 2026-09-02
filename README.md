@@ -203,6 +203,7 @@ Happy Coding! 🚀
 | [3718-smallest-missing-multiple-of-k](https://github.com/KA18202005/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KA18202005/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -655,6 +656,7 @@ Happy Coding! 🚀
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KA18202005/Leetcode-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KA18202005/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KA18202005/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
