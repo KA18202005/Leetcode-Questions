@@ -378,6 +378,7 @@ Happy Coding! 🚀
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1387-sort-integers-by-the-power-value](https://github.com/KA18202005/Leetcode-Questions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1406-stone-game-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1463-cherry-pickup-ii) |
 | [1473-paint-house-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1473-paint-house-iii) |
@@ -476,6 +477,7 @@ Happy Coding! 🚀
 | [0973-k-closest-points-to-origin](https://github.com/KA18202005/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1366-rank-teams-by-votes](https://github.com/KA18202005/Leetcode-Questions/tree/master/1366-rank-teams-by-votes) |
+| [1387-sort-integers-by-the-power-value](https://github.com/KA18202005/Leetcode-Questions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KA18202005/Leetcode-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KA18202005/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -750,6 +752,7 @@ Happy Coding! 🚀
 | [0509-fibonacci-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0691-stickers-to-spell-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1387-sort-integers-by-the-power-value](https://github.com/KA18202005/Leetcode-Questions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/KA18202005/Leetcode-Questions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
