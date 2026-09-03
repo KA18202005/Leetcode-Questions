@@ -162,6 +162,7 @@ Happy Coding! 🚀
 | [1937-maximum-number-of-points-with-cost](https://github.com/KA18202005/Leetcode-Questions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2013-detect-squares](https://github.com/KA18202005/Leetcode-Questions/tree/master/2013-detect-squares) |
 | [2028-find-missing-observations](https://github.com/KA18202005/Leetcode-Questions/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/KA18202005/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 | [2055-plates-between-candles](https://github.com/KA18202005/Leetcode-Questions/tree/master/2055-plates-between-candles) |
@@ -236,6 +237,7 @@ Happy Coding! 🚀
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/KA18202005/Leetcode-Questions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2007-find-original-array-from-doubled-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2013-detect-squares](https://github.com/KA18202005/Leetcode-Questions/tree/master/2013-detect-squares) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/KA18202005/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/KA18202005/Leetcode-Questions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2272-substring-with-largest-variance](https://github.com/KA18202005/Leetcode-Questions/tree/master/2272-substring-with-largest-variance) |
@@ -775,6 +777,7 @@ Happy Coding! 🚀
 | [1366-rank-teams-by-votes](https://github.com/KA18202005/Leetcode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/KA18202005/Leetcode-Questions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2013-detect-squares](https://github.com/KA18202005/Leetcode-Questions/tree/master/2013-detect-squares) |
 | [2029-stone-game-ix](https://github.com/KA18202005/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -803,6 +806,7 @@ Happy Coding! 🚀
 | [0900-rle-iterator](https://github.com/KA18202005/Leetcode-Questions/tree/master/0900-rle-iterator) |
 | [0981-time-based-key-value-store](https://github.com/KA18202005/Leetcode-Questions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1146-snapshot-array) |
+| [2013-detect-squares](https://github.com/KA18202005/Leetcode-Questions/tree/master/2013-detect-squares) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/KA18202005/Leetcode-Questions/tree/master/2102-sequentially-ordinal-rank-tracker) |
 ## Interactive
 |  |
@@ -1077,6 +1081,7 @@ Happy Coding! 🚀
 ## Data Stream
 |  |
 | ------- |
+| [2013-detect-squares](https://github.com/KA18202005/Leetcode-Questions/tree/master/2013-detect-squares) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/KA18202005/Leetcode-Questions/tree/master/2102-sequentially-ordinal-rank-tracker) |
 ## Heuristic Search
 |  |
