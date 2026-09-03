@@ -606,6 +606,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/KA18202005/Leetcode-Questions/tree/master/1291-sequential-digits) |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/KA18202005/Leetcode-Questions/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/KA18202005/Leetcode-Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2272-substring-with-largest-variance](https://github.com/KA18202005/Leetcode-Questions/tree/master/2272-substring-with-largest-variance) |
@@ -655,6 +656,7 @@ Happy Coding! 🚀
 | [2028-find-missing-observations](https://github.com/KA18202005/Leetcode-Questions/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/KA18202005/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 | [2101-detonate-the-maximum-bombs](https://github.com/KA18202005/Leetcode-Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/KA18202005/Leetcode-Questions/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KA18202005/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
