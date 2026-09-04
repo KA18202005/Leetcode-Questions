@@ -163,6 +163,7 @@ Happy Coding! 🚀
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2013-detect-squares](https://github.com/KA18202005/Leetcode-Questions/tree/master/2013-detect-squares) |
+| [2018-check-if-word-can-be-placed-in-crossword](https://github.com/KA18202005/Leetcode-Questions/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2028-find-missing-observations](https://github.com/KA18202005/Leetcode-Questions/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/KA18202005/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 | [2055-plates-between-candles](https://github.com/KA18202005/Leetcode-Questions/tree/master/2055-plates-between-candles) |
@@ -603,12 +604,14 @@ Happy Coding! 🚀
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1572-matrix-diagonal-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/KA18202005/Leetcode-Questions/tree/master/1937-maximum-number-of-points-with-cost) |
+| [2018-check-if-word-can-be-placed-in-crossword](https://github.com/KA18202005/Leetcode-Questions/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/KA18202005/Leetcode-Questions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KA18202005/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/KA18202005/Leetcode-Questions/tree/master/1291-sequential-digits) |
+| [2018-check-if-word-can-be-placed-in-crossword](https://github.com/KA18202005/Leetcode-Questions/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/KA18202005/Leetcode-Questions/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/KA18202005/Leetcode-Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
