@@ -427,6 +427,7 @@ Happy Coding! 🚀
 | [0376-wiggle-subsequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/KA18202005/Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [0670-maximum-swap](https://github.com/KA18202005/Leetcode-Questions/tree/master/0670-maximum-swap) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/KA18202005/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
@@ -655,6 +656,7 @@ Happy Coding! 🚀
 | [0539-minimum-time-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0670-maximum-swap](https://github.com/KA18202005/Leetcode-Questions/tree/master/0670-maximum-swap) |
 | [0843-guess-the-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0843-guess-the-word) |
 | [0877-stone-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/KA18202005/Leetcode-Questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
