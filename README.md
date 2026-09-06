@@ -404,6 +404,7 @@ Happy Coding! 🚀
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1872-stone-game-viii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1872-stone-game-viii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/KA18202005/Leetcode-Questions/tree/master/1937-maximum-number-of-points-with-cost) |
+| [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/KA18202005/Leetcode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2140-solving-questions-with-brainpower](https://github.com/KA18202005/Leetcode-Questions/tree/master/2140-solving-questions-with-brainpower) |
@@ -742,6 +743,7 @@ Happy Coding! 🚀
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/KA18202005/Leetcode-Questions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1927-sum-game) |
 | [2055-plates-between-candles](https://github.com/KA18202005/Leetcode-Questions/tree/master/2055-plates-between-candles) |
+| [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KA18202005/Leetcode-Questions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/KA18202005/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
