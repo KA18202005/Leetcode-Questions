@@ -227,6 +227,7 @@ Happy Coding! 🚀
 | [0525-contiguous-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0525-contiguous-array) |
 | [0691-stickers-to-spell-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0691-stickers-to-spell-word) |
 | [0706-design-hashmap](https://github.com/KA18202005/Leetcode-Questions/tree/master/0706-design-hashmap) |
+| [0791-custom-sort-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0792-number-of-matching-subsequences) |
 | [0833-find-and-replace-in-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0833-find-and-replace-in-string) |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
@@ -494,6 +495,7 @@ Happy Coding! 🚀
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/KA18202005/Leetcode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0791-custom-sort-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0792-number-of-matching-subsequences) |
 | [0833-find-and-replace-in-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0833-find-and-replace-in-string) |
 | [0937-reorder-data-in-log-files](https://github.com/KA18202005/Leetcode-Questions/tree/master/0937-reorder-data-in-log-files) |
@@ -728,6 +730,7 @@ Happy Coding! 🚀
 | [0722-remove-comments](https://github.com/KA18202005/Leetcode-Questions/tree/master/0722-remove-comments) |
 | [0753-cracking-the-safe](https://github.com/KA18202005/Leetcode-Questions/tree/master/0753-cracking-the-safe) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0791-custom-sort-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0792-number-of-matching-subsequences) |
 | [0833-find-and-replace-in-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0833-find-and-replace-in-string) |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
