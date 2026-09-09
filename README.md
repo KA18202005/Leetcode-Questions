@@ -1076,6 +1076,7 @@ Happy Coding! 🚀
 | [0607-sales-person](https://github.com/KA18202005/Leetcode-Questions/tree/master/0607-sales-person) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/KA18202005/Leetcode-Questions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1084-sales-analysis-iii) |
+| [1393-capital-gainloss](https://github.com/KA18202005/Leetcode-Questions/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/KA18202005/Leetcode-Questions/tree/master/1407-top-travellers) |
 | [1693-daily-leads-and-partners](https://github.com/KA18202005/Leetcode-Questions/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/KA18202005/Leetcode-Questions/tree/master/1741-find-total-time-spent-by-each-employee) |
