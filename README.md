@@ -545,6 +545,7 @@ Happy Coding! 🚀
 | [1376-time-needed-to-inform-all-employees](https://github.com/KA18202005/Leetcode-Questions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KA18202005/Leetcode-Questions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KA18202005/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2421-number-of-good-paths](https://github.com/KA18202005/Leetcode-Questions/tree/master/2421-number-of-good-paths) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/KA18202005/Leetcode-Questions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
@@ -575,6 +576,7 @@ Happy Coding! 🚀
 | [2097-valid-arrangement-of-pairs](https://github.com/KA18202005/Leetcode-Questions/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/KA18202005/Leetcode-Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KA18202005/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/KA18202005/Leetcode-Questions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/KA18202005/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/KA18202005/Leetcode-Questions/tree/master/3310-remove-methods-from-project) |
@@ -1054,6 +1056,7 @@ Happy Coding! 🚀
 | [0968-binary-tree-cameras](https://github.com/KA18202005/Leetcode-Questions/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KA18202005/Leetcode-Questions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KA18202005/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Function
 |  |
 | ------- |
