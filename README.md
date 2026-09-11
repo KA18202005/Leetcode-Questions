@@ -128,6 +128,7 @@ Happy Coding! 🚀
 | [0956-tallest-billboard](https://github.com/KA18202005/Leetcode-Questions/tree/master/0956-tallest-billboard) |
 | [0973-k-closest-points-to-origin](https://github.com/KA18202005/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [0990-satisfiability-of-equality-equations](https://github.com/KA18202005/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
+| [0994-rotting-oranges](https://github.com/KA18202005/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0997-find-the-town-judge) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/KA18202005/Leetcode-Questions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1035-uncrossed-lines](https://github.com/KA18202005/Leetcode-Questions/tree/master/1035-uncrossed-lines) |
@@ -605,6 +606,7 @@ Happy Coding! 🚀
 | [0847-shortest-path-visiting-all-nodes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KA18202005/Leetcode-Questions/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0994-rotting-oranges](https://github.com/KA18202005/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/KA18202005/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1254-number-of-closed-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/KA18202005/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -628,6 +630,7 @@ Happy Coding! 🚀
 | [0741-cherry-pickup](https://github.com/KA18202005/Leetcode-Questions/tree/master/0741-cherry-pickup) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KA18202005/Leetcode-Questions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0931-minimum-falling-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/KA18202005/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/KA18202005/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
