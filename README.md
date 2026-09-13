@@ -180,6 +180,7 @@ Happy Coding! 🚀
 | [2140-solving-questions-with-brainpower](https://github.com/KA18202005/Leetcode-Questions/tree/master/2140-solving-questions-with-brainpower) |
 | [2172-maximum-and-sum-of-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2172-maximum-and-sum-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KA18202005/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/KA18202005/Leetcode-Questions/tree/master/2239-find-closest-number-to-zero) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -708,6 +709,7 @@ Happy Coding! 🚀
 | [2101-detonate-the-maximum-bombs](https://github.com/KA18202005/Leetcode-Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/KA18202005/Leetcode-Questions/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/KA18202005/Leetcode-Questions/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KA18202005/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -728,6 +730,7 @@ Happy Coding! 🚀
 ## Number Theory
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KA18202005/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KA18202005/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -856,6 +859,7 @@ Happy Coding! 🚀
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/KA18202005/Leetcode-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2028-find-missing-observations](https://github.com/KA18202005/Leetcode-Questions/tree/master/2028-find-missing-observations) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
@@ -881,6 +885,7 @@ Happy Coding! 🚀
 ## Combinatorics
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KA18202005/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
