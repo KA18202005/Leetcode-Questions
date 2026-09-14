@@ -1,15 +1,15 @@
 class SORTracker {
-    set<pair<int, string>> s;
-    set<pair<int, string>>::iterator it = end(s);
-    
 public:
-    void add(string name, int score) {
-        auto it1 = s.insert({-score, name}).first;
-        if (it == end(s) || *it1 < *it) --it;
+    SORTracker() {
+        
     }
-
+    
+    void add(string name, int score) {
+        
+    }
+    
     string get() {
-        return (it++)->second;
+        
     }
 };
 
