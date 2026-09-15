@@ -257,6 +257,7 @@ Happy Coding! 🚀
 | [2034-stock-price-fluctuation](https://github.com/KA18202005/Leetcode-Questions/tree/master/2034-stock-price-fluctuation) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/KA18202005/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/KA18202005/Leetcode-Questions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
+| [2262-total-appeal-of-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2262-total-appeal-of-a-string) |
 | [2272-substring-with-largest-variance](https://github.com/KA18202005/Leetcode-Questions/tree/master/2272-substring-with-largest-variance) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2405-optimal-partition-of-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2405-optimal-partition-of-string) |
@@ -426,6 +427,7 @@ Happy Coding! 🚀
 | [2140-solving-questions-with-brainpower](https://github.com/KA18202005/Leetcode-Questions/tree/master/2140-solving-questions-with-brainpower) |
 | [2172-maximum-and-sum-of-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2172-maximum-and-sum-of-array) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2222-number-of-ways-to-select-buildings) |
+| [2262-total-appeal-of-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2262-total-appeal-of-a-string) |
 | [2272-substring-with-largest-variance](https://github.com/KA18202005/Leetcode-Questions/tree/master/2272-substring-with-largest-variance) |
 | [2466-count-ways-to-build-good-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2466-count-ways-to-build-good-strings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -801,6 +803,7 @@ Happy Coding! 🚀
 | [2222-number-of-ways-to-select-buildings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/KA18202005/Leetcode-Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2262-total-appeal-of-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2262-total-appeal-of-a-string) |
 | [2272-substring-with-largest-variance](https://github.com/KA18202005/Leetcode-Questions/tree/master/2272-substring-with-largest-variance) |
 | [2405-optimal-partition-of-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2405-optimal-partition-of-string) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2416-sum-of-prefix-scores-of-strings) |
