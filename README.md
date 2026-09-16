@@ -851,6 +851,7 @@ Happy Coding! 🚀
 | [0767-reorganize-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0767-reorganize-string) |
 | [0900-rle-iterator](https://github.com/KA18202005/Leetcode-Questions/tree/master/0900-rle-iterator) |
 | [1366-rank-teams-by-votes](https://github.com/KA18202005/Leetcode-Questions/tree/master/1366-rank-teams-by-votes) |
+| [1603-design-parking-system](https://github.com/KA18202005/Leetcode-Questions/tree/master/1603-design-parking-system) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/KA18202005/Leetcode-Questions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2013-detect-squares](https://github.com/KA18202005/Leetcode-Questions/tree/master/2013-detect-squares) |
@@ -867,6 +868,7 @@ Happy Coding! 🚀
 | [0415-add-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1603-design-parking-system](https://github.com/KA18202005/Leetcode-Questions/tree/master/1603-design-parking-system) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/KA18202005/Leetcode-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2028-find-missing-observations](https://github.com/KA18202005/Leetcode-Questions/tree/master/2028-find-missing-observations) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -884,6 +886,7 @@ Happy Coding! 🚀
 | [0900-rle-iterator](https://github.com/KA18202005/Leetcode-Questions/tree/master/0900-rle-iterator) |
 | [0981-time-based-key-value-store](https://github.com/KA18202005/Leetcode-Questions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1146-snapshot-array) |
+| [1603-design-parking-system](https://github.com/KA18202005/Leetcode-Questions/tree/master/1603-design-parking-system) |
 | [2013-detect-squares](https://github.com/KA18202005/Leetcode-Questions/tree/master/2013-detect-squares) |
 | [2034-stock-price-fluctuation](https://github.com/KA18202005/Leetcode-Questions/tree/master/2034-stock-price-fluctuation) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/KA18202005/Leetcode-Questions/tree/master/2102-sequentially-ordinal-rank-tracker) |
