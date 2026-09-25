@@ -248,6 +248,7 @@ Happy Coding! 🚀
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/KA18202005/Leetcode-Questions/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0997-find-the-town-judge) |
+| [1096-brace-expansion-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1146-snapshot-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1146-snapshot-array) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/KA18202005/Leetcode-Questions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -535,6 +536,7 @@ Happy Coding! 🚀
 | [0833-find-and-replace-in-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0833-find-and-replace-in-string) |
 | [0937-reorder-data-in-log-files](https://github.com/KA18202005/Leetcode-Questions/tree/master/0937-reorder-data-in-log-files) |
 | [0973-k-closest-points-to-origin](https://github.com/KA18202005/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
+| [1096-brace-expansion-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1366-rank-teams-by-votes](https://github.com/KA18202005/Leetcode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1387-sort-integers-by-the-power-value](https://github.com/KA18202005/Leetcode-Questions/tree/master/1387-sort-integers-by-the-power-value) |
@@ -631,6 +633,7 @@ Happy Coding! 🚀
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KA18202005/Leetcode-Questions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0994-rotting-oranges](https://github.com/KA18202005/Leetcode-Questions/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/KA18202005/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1254-number-of-closed-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/KA18202005/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -802,6 +805,7 @@ Happy Coding! 🚀
 | [0990-satisfiability-of-equality-equations](https://github.com/KA18202005/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/KA18202005/Leetcode-Questions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1366-rank-teams-by-votes](https://github.com/KA18202005/Leetcode-Questions/tree/master/1366-rank-teams-by-votes) |
@@ -987,6 +991,7 @@ Happy Coding! 🚀
 | [0682-baseball-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2104-sum-of-subarray-ranges](https://github.com/KA18202005/Leetcode-Questions/tree/master/2104-sum-of-subarray-ranges) |
@@ -1144,6 +1149,7 @@ Happy Coding! 🚀
 | [0301-remove-invalid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0691-stickers-to-spell-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1096-brace-expansion-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/KA18202005/Leetcode-Questions/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/KA18202005/Leetcode-Questions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
