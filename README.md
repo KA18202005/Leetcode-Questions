@@ -706,6 +706,7 @@ Happy Coding! 🚀
 | [0464-can-i-win](https://github.com/KA18202005/Leetcode-Questions/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/KA18202005/Leetcode-Questions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/KA18202005/Leetcode-Questions/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
