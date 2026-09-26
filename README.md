@@ -78,6 +78,7 @@ Happy Coding! 🚀
 | ------- |
 | [0063-unique-paths-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0119-pascals-triangle-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0200-number-of-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0275-h-index-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0275-h-index-ii) |
@@ -383,6 +384,7 @@ Happy Coding! 🚀
 | [0010-regular-expression-matching](https://github.com/KA18202005/Leetcode-Questions/tree/master/0010-regular-expression-matching) |
 | [0063-unique-paths-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0233-number-of-digit-one](https://github.com/KA18202005/Leetcode-Questions/tree/master/0233-number-of-digit-one) |
