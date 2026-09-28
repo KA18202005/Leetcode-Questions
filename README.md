@@ -816,6 +816,7 @@ Happy Coding! 🚀
 | [1366-rank-teams-by-votes](https://github.com/KA18202005/Leetcode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1405-longest-happy-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/1405-longest-happy-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/KA18202005/Leetcode-Questions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/KA18202005/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -999,6 +1000,7 @@ Happy Coding! 🚀
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2104-sum-of-subarray-ranges](https://github.com/KA18202005/Leetcode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/KA18202005/Leetcode-Questions/tree/master/2281-sum-of-total-strength-of-wizards) |
@@ -1292,6 +1294,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Maximum Flow
 |  |
 | ------- |
