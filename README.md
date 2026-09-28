@@ -426,6 +426,7 @@ Happy Coding! 🚀
 | [1105-filling-bookcase-shelves](https://github.com/KA18202005/Leetcode-Questions/tree/master/1105-filling-bookcase-shelves) |
 | [1140-stone-game-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KA18202005/Leetcode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-sort-integers-by-the-power-value](https://github.com/KA18202005/Leetcode-Questions/tree/master/1387-sort-integers-by-the-power-value) |
@@ -822,6 +823,7 @@ Happy Coding! 🚀
 | [1096-brace-expansion-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/KA18202005/Leetcode-Questions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KA18202005/Leetcode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1366-rank-teams-by-votes](https://github.com/KA18202005/Leetcode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1405-longest-happy-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/1405-longest-happy-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
