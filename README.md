@@ -189,6 +189,7 @@ Happy Coding! 🚀
 | [2239-find-closest-number-to-zero](https://github.com/KA18202005/Leetcode-Questions/tree/master/2239-find-closest-number-to-zero) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KA18202005/Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/KA18202005/Leetcode-Questions/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KA18202005/Leetcode-Questions/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -449,6 +450,7 @@ Happy Coding! 🚀
 | [2172-maximum-and-sum-of-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2172-maximum-and-sum-of-array) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2262-total-appeal-of-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2262-total-appeal-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KA18202005/Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2272-substring-with-largest-variance](https://github.com/KA18202005/Leetcode-Questions/tree/master/2272-substring-with-largest-variance) |
 | [2466-count-ways-to-build-good-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2466-count-ways-to-build-good-strings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -681,6 +683,7 @@ Happy Coding! 🚀
 | [1572-matrix-diagonal-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/KA18202005/Leetcode-Questions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/KA18202005/Leetcode-Questions/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KA18202005/Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/KA18202005/Leetcode-Questions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KA18202005/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
@@ -1311,6 +1314,7 @@ Happy Coding! 🚀
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KA18202005/Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Maximum Flow
 |  |
 | ------- |
