@@ -171,6 +171,7 @@ Happy Coding! 🚀
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1872-stone-game-viii) |
+| [1901-find-a-peak-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/KA18202005/Leetcode-Questions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
@@ -319,6 +320,7 @@ Happy Coding! 🚀
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KA18202005/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KA18202005/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1901-find-a-peak-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2055-plates-between-candles](https://github.com/KA18202005/Leetcode-Questions/tree/master/2055-plates-between-candles) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KA18202005/Leetcode-Questions/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
@@ -691,6 +693,7 @@ Happy Coding! 🚀
 | [1463-cherry-pickup-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1463-cherry-pickup-ii) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1572-matrix-diagonal-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
+| [1901-find-a-peak-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/KA18202005/Leetcode-Questions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/KA18202005/Leetcode-Questions/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KA18202005/Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
