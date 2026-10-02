@@ -78,6 +78,7 @@ Happy Coding! 🚀
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KA18202005/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
+| [0078-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
@@ -525,6 +526,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0464-can-i-win](https://github.com/KA18202005/Leetcode-Questions/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/KA18202005/Leetcode-Questions/tree/master/0477-total-hamming-distance) |
@@ -1209,6 +1211,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0691-stickers-to-spell-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0691-stickers-to-spell-word) |
