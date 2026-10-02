@@ -402,6 +402,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KA18202005/Leetcode-Questions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KA18202005/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
@@ -807,6 +808,7 @@ Happy Coding! 🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/KA18202005/Leetcode-Questions/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0273-integer-to-english-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
@@ -1206,6 +1208,7 @@ Happy Coding! 🚀
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0691-stickers-to-spell-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0691-stickers-to-spell-word) |
@@ -1348,6 +1351,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
