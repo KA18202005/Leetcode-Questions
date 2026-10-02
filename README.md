@@ -76,6 +76,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KA18202005/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/KA18202005/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/KA18202005/Leetcode-Questions/tree/master/0051-n-queens) |
@@ -246,6 +247,7 @@ Happy Coding! 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/KA18202005/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0229-majority-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0229-majority-element-ii) |
@@ -689,6 +691,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KA18202005/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1218,6 +1221,7 @@ Happy Coding! 🚀
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/KA18202005/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/KA18202005/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0078-subsets) |
@@ -1428,5 +1432,10 @@ Happy Coding! 🚀
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KA18202005/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/KA18202005/Leetcode-Questions/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/KA18202005/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
