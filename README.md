@@ -388,6 +388,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KA18202005/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/KA18202005/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/KA18202005/Leetcode-Questions/tree/master/0455-assign-cookies) |
@@ -1103,6 +1104,7 @@ Happy Coding! 🚀
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/KA18202005/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0445-add-two-numbers-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0706-design-hashmap](https://github.com/KA18202005/Leetcode-Questions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/KA18202005/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
