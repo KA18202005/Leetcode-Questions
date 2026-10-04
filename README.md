@@ -261,6 +261,7 @@ Happy Coding! 🚀
 | [0398-random-pick-index](https://github.com/KA18202005/Leetcode-Questions/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/KA18202005/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/KA18202005/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KA18202005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -975,6 +976,7 @@ Happy Coding! 🚀
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/KA18202005/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0384-shuffle-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0384-shuffle-an-array) |
+| [0460-lfu-cache](https://github.com/KA18202005/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [0706-design-hashmap](https://github.com/KA18202005/Leetcode-Questions/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/0729-my-calendar-i) |
 | [0900-rle-iterator](https://github.com/KA18202005/Leetcode-Questions/tree/master/0900-rle-iterator) |
@@ -1128,6 +1130,7 @@ Happy Coding! 🚀
 | ------- |
 | [0061-rotate-list](https://github.com/KA18202005/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0445-add-two-numbers-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/KA18202005/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [0706-design-hashmap](https://github.com/KA18202005/Leetcode-Questions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/KA18202005/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/KA18202005/Leetcode-Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -1470,4 +1473,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/KA18202005/Leetcode-Questions/tree/master/0037-sudoku-solver) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/KA18202005/Leetcode-Questions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
