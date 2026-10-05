@@ -866,6 +866,7 @@ Happy Coding! 🚀
 | [0833-find-and-replace-in-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0833-find-and-replace-in-string) |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
 | [0843-guess-the-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0843-guess-the-word) |
+| [0856-score-of-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/KA18202005/Leetcode-Questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0937-reorder-data-in-log-files](https://github.com/KA18202005/Leetcode-Questions/tree/master/0937-reorder-data-in-log-files) |
 | [0940-distinct-subsequences-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0940-distinct-subsequences-ii) |
@@ -1081,6 +1082,7 @@ Happy Coding! 🚀
 | [0678-valid-parenthesis-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0856-score-of-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/KA18202005/Leetcode-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/KA18202005/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1404,6 +1406,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
