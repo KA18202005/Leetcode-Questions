@@ -87,6 +87,7 @@ Happy Coding! 🚀
 | [0090-subsets-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/KA18202005/Leetcode-Questions/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/0200-number-of-islands) |
@@ -504,6 +505,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/KA18202005/Leetcode-Questions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/KA18202005/Leetcode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0376-wiggle-subsequence) |
