@@ -80,6 +80,7 @@ Happy Coding! 🚀
 | [0039-combination-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/KA18202005/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/KA18202005/Leetcode-Questions/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -419,6 +420,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KA18202005/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
@@ -501,6 +503,7 @@ Happy Coding! 🚀
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/KA18202005/Leetcode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0376-wiggle-subsequence) |
