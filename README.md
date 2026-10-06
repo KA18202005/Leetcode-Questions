@@ -85,6 +85,7 @@ Happy Coding! 🚀
 | [0078-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/KA18202005/Leetcode-Questions/tree/master/0135-candy) |
@@ -254,6 +255,7 @@ Happy Coding! 🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/KA18202005/Leetcode-Questions/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0229-majority-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0229-majority-element-ii) |
@@ -633,6 +635,7 @@ Happy Coding! 🚀
 | [0094-binary-tree-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0337-house-robber-iii) |
@@ -1179,6 +1182,7 @@ Happy Coding! 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KA18202005/Leetcode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -1259,6 +1263,7 @@ Happy Coding! 🚀
 | [0094-binary-tree-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0337-house-robber-iii) |
