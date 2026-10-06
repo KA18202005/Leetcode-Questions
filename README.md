@@ -638,6 +638,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/KA18202005/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0572-subtree-of-another-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
@@ -660,6 +661,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/KA18202005/Leetcode-Questions/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0337-house-robber-iii) |
@@ -696,6 +698,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/KA18202005/Leetcode-Questions/tree/master/0547-number-of-provinces) |
@@ -857,6 +860,7 @@ Happy Coding! 🚀
 | [0115-distinct-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0273-integer-to-english-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/KA18202005/Leetcode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/KA18202005/Leetcode-Questions/tree/master/0332-reconstruct-itinerary) |
@@ -997,6 +1001,7 @@ Happy Coding! 🚀
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/KA18202005/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0384-shuffle-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0384-shuffle-an-array) |
 | [0460-lfu-cache](https://github.com/KA18202005/Leetcode-Questions/tree/master/0460-lfu-cache) |
@@ -1266,6 +1271,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KA18202005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
