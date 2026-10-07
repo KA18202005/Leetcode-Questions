@@ -638,6 +638,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/KA18202005/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
@@ -662,6 +663,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/0200-number-of-islands) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/KA18202005/Leetcode-Questions/tree/master/0332-reconstruct-itinerary) |
@@ -1272,6 +1274,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
@@ -1395,6 +1398,7 @@ Happy Coding! 🚀
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KA18202005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -1495,10 +1499,12 @@ Happy Coding! 🚀
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KA18202005/Leetcode-Questions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KA18202005/Leetcode-Questions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Directed Acyclic Graph
 |  |
