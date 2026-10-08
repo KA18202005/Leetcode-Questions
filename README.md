@@ -116,6 +116,7 @@ Happy Coding! 🚀
 | [0525-contiguous-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/KA18202005/Leetcode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -443,6 +444,7 @@ Happy Coding! 🚀
 | [0486-predict-the-winner](https://github.com/KA18202005/Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0552-student-attendance-record-ii) |
 | [0629-k-inverse-pairs-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0629-k-inverse-pairs-array) |
 | [0639-decode-ways-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0639-decode-ways-ii) |
@@ -710,6 +712,7 @@ Happy Coding! 🚀
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/KA18202005/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KA18202005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -743,6 +746,7 @@ Happy Coding! 🚀
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/KA18202005/Leetcode-Questions/tree/master/0419-battleships-in-a-board) |
+| [0542-01-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KA18202005/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/KA18202005/Leetcode-Questions/tree/master/0741-cherry-pickup) |
