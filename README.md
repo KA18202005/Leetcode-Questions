@@ -384,6 +384,7 @@ Happy Coding! 🚀
 | [0547-number-of-provinces](https://github.com/KA18202005/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0753-cracking-the-safe](https://github.com/KA18202005/Leetcode-Questions/tree/master/0753-cracking-the-safe) |
 | [0785-is-graph-bipartite](https://github.com/KA18202005/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KA18202005/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0990-satisfiability-of-equality-equations](https://github.com/KA18202005/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0997-find-the-town-judge) |
@@ -460,6 +461,7 @@ Happy Coding! 🚀
 | [0691-stickers-to-spell-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0741-cherry-pickup](https://github.com/KA18202005/Leetcode-Questions/tree/master/0741-cherry-pickup) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KA18202005/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0792-number-of-matching-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0792-number-of-matching-subsequences) |
 | [0818-race-car](https://github.com/KA18202005/Leetcode-Questions/tree/master/0818-race-car) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -690,6 +692,7 @@ Happy Coding! 🚀
 | [0733-flood-fill](https://github.com/KA18202005/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0753-cracking-the-safe](https://github.com/KA18202005/Leetcode-Questions/tree/master/0753-cracking-the-safe) |
 | [0785-is-graph-bipartite](https://github.com/KA18202005/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KA18202005/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/KA18202005/Leetcode-Questions/tree/master/0968-binary-tree-cameras) |
@@ -725,6 +728,7 @@ Happy Coding! 🚀
 | [0695-max-area-of-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KA18202005/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/KA18202005/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KA18202005/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1101,6 +1105,7 @@ Happy Coding! 🚀
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KA18202005/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/KA18202005/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1405-longest-happy-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/1405-longest-happy-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1569,4 +1574,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/KA18202005/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KA18202005/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
