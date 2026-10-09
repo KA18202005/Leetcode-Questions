@@ -181,6 +181,7 @@ Happy Coding! 🚀
 | [1572-matrix-diagonal-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/KA18202005/Leetcode-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1610-maximum-number-of-visible-points](https://github.com/KA18202005/Leetcode-Questions/tree/master/1610-maximum-number-of-visible-points) |
+| [1631-path-with-minimum-effort](https://github.com/KA18202005/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/KA18202005/Leetcode-Questions/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KA18202005/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -345,6 +346,7 @@ Happy Coding! 🚀
 | [1146-snapshot-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1146-snapshot-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KA18202005/Leetcode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1631-path-with-minimum-effort](https://github.com/KA18202005/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KA18202005/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1901-find-a-peak-element-ii) |
@@ -369,6 +371,7 @@ Happy Coding! 🚀
 | [0990-satisfiability-of-equality-equations](https://github.com/KA18202005/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1254-number-of-closed-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/KA18202005/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2421-number-of-good-paths](https://github.com/KA18202005/Leetcode-Questions/tree/master/2421-number-of-good-paths) |
 | [2685-count-the-number-of-complete-components](https://github.com/KA18202005/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -697,6 +700,7 @@ Happy Coding! 🚀
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/KA18202005/Leetcode-Questions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [1631-path-with-minimum-effort](https://github.com/KA18202005/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KA18202005/Leetcode-Questions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2097-valid-arrangement-of-pairs](https://github.com/KA18202005/Leetcode-Questions/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/KA18202005/Leetcode-Questions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -733,6 +737,7 @@ Happy Coding! 🚀
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/KA18202005/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/KA18202005/Leetcode-Questions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [1631-path-with-minimum-effort](https://github.com/KA18202005/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2101-detonate-the-maximum-bombs](https://github.com/KA18202005/Leetcode-Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/KA18202005/Leetcode-Questions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/KA18202005/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -763,6 +768,7 @@ Happy Coding! 🚀
 | [1463-cherry-pickup-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1463-cherry-pickup-ii) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1572-matrix-diagonal-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/KA18202005/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/KA18202005/Leetcode-Questions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/KA18202005/Leetcode-Questions/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
@@ -1099,6 +1105,7 @@ Happy Coding! 🚀
 | [1405-longest-happy-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/1405-longest-happy-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/KA18202005/Leetcode-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1631-path-with-minimum-effort](https://github.com/KA18202005/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/KA18202005/Leetcode-Questions/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2034-stock-price-fluctuation](https://github.com/KA18202005/Leetcode-Questions/tree/master/2034-stock-price-fluctuation) |
@@ -1558,4 +1565,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/KA18202005/Leetcode-Questions/tree/master/1192-critical-connections-in-a-network) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/KA18202005/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
