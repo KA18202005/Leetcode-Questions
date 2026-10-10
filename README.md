@@ -156,6 +156,7 @@ Happy Coding! 🚀
 | [1004-max-consecutive-ones-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1035-uncrossed-lines](https://github.com/KA18202005/Leetcode-Questions/tree/master/1035-uncrossed-lines) |
+| [1049-last-stone-weight-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1049-last-stone-weight-ii) |
 | [1105-filling-bookcase-shelves](https://github.com/KA18202005/Leetcode-Questions/tree/master/1105-filling-bookcase-shelves) |
 | [1140-stone-game-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1146-snapshot-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1146-snapshot-array) |
@@ -485,6 +486,7 @@ Happy Coding! 🚀
 | [1000-minimum-cost-to-merge-stones](https://github.com/KA18202005/Leetcode-Questions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1012-numbers-with-repeated-digits](https://github.com/KA18202005/Leetcode-Questions/tree/master/1012-numbers-with-repeated-digits) |
 | [1035-uncrossed-lines](https://github.com/KA18202005/Leetcode-Questions/tree/master/1035-uncrossed-lines) |
+| [1049-last-stone-weight-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1049-last-stone-weight-ii) |
 | [1105-filling-bookcase-shelves](https://github.com/KA18202005/Leetcode-Questions/tree/master/1105-filling-bookcase-shelves) |
 | [1140-stone-game-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -1484,11 +1486,13 @@ Happy Coding! 🚀
 | ------- |
 | [0879-profitable-schemes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0879-profitable-schemes) |
 | [0956-tallest-billboard](https://github.com/KA18202005/Leetcode-Questions/tree/master/0956-tallest-billboard) |
+| [1049-last-stone-weight-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0879-profitable-schemes) |
 | [0956-tallest-billboard](https://github.com/KA18202005/Leetcode-Questions/tree/master/0956-tallest-billboard) |
+| [1049-last-stone-weight-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1049-last-stone-weight-ii) |
 ## Polygons
 |  |
 | ------- |
