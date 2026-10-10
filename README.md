@@ -112,6 +112,7 @@ Happy Coding! 🚀
 | [0472-concatenated-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0472-concatenated-words) |
 | [0477-total-hamming-distance](https://github.com/KA18202005/Leetcode-Questions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/KA18202005/Leetcode-Questions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0525-contiguous-array) |
@@ -457,6 +458,7 @@ Happy Coding! 🚀
 | [0464-can-i-win](https://github.com/KA18202005/Leetcode-Questions/tree/master/0464-can-i-win) |
 | [0472-concatenated-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/KA18202005/Leetcode-Questions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0542-01-matrix) |
@@ -1358,6 +1360,7 @@ Happy Coding! 🚀
 | [0126-word-ladder-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0691-stickers-to-spell-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1096-brace-expansion-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
@@ -1484,12 +1487,14 @@ Happy Coding! 🚀
 ## Knapsack Problem
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0879-profitable-schemes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0879-profitable-schemes) |
 | [0956-tallest-billboard](https://github.com/KA18202005/Leetcode-Questions/tree/master/0956-tallest-billboard) |
 | [1049-last-stone-weight-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0879-profitable-schemes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0879-profitable-schemes) |
 | [0956-tallest-billboard](https://github.com/KA18202005/Leetcode-Questions/tree/master/0956-tallest-billboard) |
 | [1049-last-stone-weight-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1049-last-stone-weight-ii) |
