@@ -217,6 +217,7 @@ Happy Coding! 🚀
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KA18202005/Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/KA18202005/Leetcode-Questions/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KA18202005/Leetcode-Questions/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
@@ -354,6 +355,7 @@ Happy Coding! 🚀
 | [1901-find-a-peak-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2055-plates-between-candles](https://github.com/KA18202005/Leetcode-Questions/tree/master/2055-plates-between-candles) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KA18202005/Leetcode-Questions/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/KA18202005/Leetcode-Questions/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KA18202005/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -556,6 +558,7 @@ Happy Coding! 🚀
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/KA18202005/Leetcode-Questions/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/KA18202005/Leetcode-Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2405-optimal-partition-of-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2405-optimal-partition-of-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -631,6 +634,7 @@ Happy Coding! 🚀
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/KA18202005/Leetcode-Questions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KA18202005/Leetcode-Questions/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2421-number-of-good-paths](https://github.com/KA18202005/Leetcode-Questions/tree/master/2421-number-of-good-paths) |
@@ -1127,6 +1131,7 @@ Happy Coding! 🚀
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2034-stock-price-fluctuation](https://github.com/KA18202005/Leetcode-Questions/tree/master/2034-stock-price-fluctuation) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/KA18202005/Leetcode-Questions/tree/master/2102-sequentially-ordinal-rank-tracker) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
