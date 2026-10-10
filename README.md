@@ -449,6 +449,7 @@ Happy Coding! 🚀
 | [0115-distinct-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KA18202005/Leetcode-Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/KA18202005/Leetcode-Questions/tree/master/0233-number-of-digit-one) |
@@ -909,6 +910,7 @@ Happy Coding! 🚀
 | [0032-longest-valid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0126-word-ladder-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0273-integer-to-english-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
