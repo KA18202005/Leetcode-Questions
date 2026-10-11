@@ -191,6 +191,7 @@ Happy Coding! 🚀
 | [1642-furthest-building-you-can-reach](https://github.com/KA18202005/Leetcode-Questions/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KA18202005/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/KA18202005/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/KA18202005/Leetcode-Questions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -598,6 +599,7 @@ Happy Coding! 🚀
 | [0864-shortest-path-to-get-all-keys](https://github.com/KA18202005/Leetcode-Questions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
 | [1386-cinema-seat-allocation](https://github.com/KA18202005/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/KA18202005/Leetcode-Questions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2172-maximum-and-sum-of-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2172-maximum-and-sum-of-array) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/KA18202005/Leetcode-Questions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
@@ -1465,6 +1467,7 @@ Happy Coding! 🚀
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0472-concatenated-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0472-concatenated-words) |
 | [0792-number-of-matching-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0792-number-of-matching-subsequences) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Binary Search Tree
 |  |
