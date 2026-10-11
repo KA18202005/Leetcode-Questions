@@ -445,6 +445,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KA18202005/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/KA18202005/Leetcode-Questions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
@@ -535,6 +536,7 @@ Happy Coding! 🚀
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/KA18202005/Leetcode-Questions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/KA18202005/Leetcode-Questions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/KA18202005/Leetcode-Questions/tree/master/0316-remove-duplicate-letters) |
@@ -910,6 +912,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/KA18202005/Leetcode-Questions/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0126-word-ladder-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
@@ -1301,6 +1304,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KA18202005/Leetcode-Questions/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/KA18202005/Leetcode-Questions/tree/master/0044-wildcard-matching) |
 | [0233-number-of-digit-one](https://github.com/KA18202005/Leetcode-Questions/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/KA18202005/Leetcode-Questions/tree/master/0486-predict-the-winner) |
