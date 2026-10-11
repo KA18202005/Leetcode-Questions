@@ -227,6 +227,7 @@ Happy Coding! 🚀
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2421-number-of-good-paths](https://github.com/KA18202005/Leetcode-Questions/tree/master/2421-number-of-good-paths) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/KA18202005/Leetcode-Questions/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/KA18202005/Leetcode-Questions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -812,6 +813,7 @@ Happy Coding! 🚀
 | [2242-maximum-score-of-a-node-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/KA18202005/Leetcode-Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2272-substring-with-largest-variance](https://github.com/KA18202005/Leetcode-Questions/tree/master/2272-substring-with-largest-variance) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
