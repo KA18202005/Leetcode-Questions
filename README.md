@@ -106,6 +106,7 @@ Happy Coding! 🚀
 | [0384-shuffle-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0384-shuffle-an-array) |
 | [0410-split-array-largest-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0419-battleships-in-a-board](https://github.com/KA18202005/Leetcode-Questions/tree/master/0419-battleships-in-a-board) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/KA18202005/Leetcode-Questions/tree/master/0455-assign-cookies) |
@@ -276,6 +277,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/KA18202005/Leetcode-Questions/tree/master/0398-random-pick-index) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/KA18202005/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/KA18202005/Leetcode-Questions/tree/master/0460-lfu-cache) |
@@ -587,6 +589,7 @@ Happy Coding! 🚀
 | [0078-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/0389-find-the-difference) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0464-can-i-win](https://github.com/KA18202005/Leetcode-Questions/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/KA18202005/Leetcode-Questions/tree/master/0477-total-hamming-distance) |
 | [0691-stickers-to-spell-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0691-stickers-to-spell-word) |
@@ -1459,6 +1462,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0472-concatenated-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0472-concatenated-words) |
 | [0792-number-of-matching-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0792-number-of-matching-subsequences) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2416-sum-of-prefix-scores-of-strings) |
