@@ -423,6 +423,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/KA18202005/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/KA18202005/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0344-reverse-string) |
@@ -920,6 +921,7 @@ Happy Coding! 🚀
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/KA18202005/Leetcode-Questions/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
@@ -1337,6 +1339,7 @@ Happy Coding! 🚀
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/KA18202005/Leetcode-Questions/tree/master/0686-repeated-string-match) |
 ## Binary Tree
@@ -1642,13 +1645,16 @@ Happy Coding! 🚀
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/KA18202005/Leetcode-Questions/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/KA18202005/Leetcode-Questions/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/KA18202005/Leetcode-Questions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
