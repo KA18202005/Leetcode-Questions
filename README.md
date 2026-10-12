@@ -948,6 +948,7 @@ Happy Coding! 🚀
 | [0664-strange-printer](https://github.com/KA18202005/Leetcode-Questions/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/KA18202005/Leetcode-Questions/tree/master/0686-repeated-string-match) |
 | [0691-stickers-to-spell-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0691-stickers-to-spell-word) |
 | [0722-remove-comments](https://github.com/KA18202005/Leetcode-Questions/tree/master/0722-remove-comments) |
 | [0753-cracking-the-safe](https://github.com/KA18202005/Leetcode-Questions/tree/master/0753-cracking-the-safe) |
@@ -1337,6 +1338,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/KA18202005/Leetcode-Questions/tree/master/0686-repeated-string-match) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1637,4 +1639,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0518-coin-change-ii) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/KA18202005/Leetcode-Questions/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/KA18202005/Leetcode-Questions/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/KA18202005/Leetcode-Questions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
