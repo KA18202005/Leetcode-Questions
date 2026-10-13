@@ -76,6 +76,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/KA18202005/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/KA18202005/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
@@ -426,6 +427,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/KA18202005/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/KA18202005/Leetcode-Questions/tree/master/0061-rotate-list) |
@@ -623,6 +625,7 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
