@@ -149,6 +149,7 @@ Happy Coding! 🚀
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
 | [0843-guess-the-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0843-guess-the-word) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KA18202005/Leetcode-Questions/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0875-koko-eating-bananas](https://github.com/KA18202005/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0879-profitable-schemes) |
 | [0896-monotonic-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0896-monotonic-array) |
@@ -363,6 +364,7 @@ Happy Coding! 🚀
 | [0719-find-k-th-smallest-pair-distance](https://github.com/KA18202005/Leetcode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/0729-my-calendar-i) |
 | [0792-number-of-matching-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0792-number-of-matching-subsequences) |
+| [0875-koko-eating-bananas](https://github.com/KA18202005/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/KA18202005/Leetcode-Questions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0981-time-based-key-value-store](https://github.com/KA18202005/Leetcode-Questions/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
