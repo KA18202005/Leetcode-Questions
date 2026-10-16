@@ -242,6 +242,7 @@ Happy Coding! 🚀
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/KA18202005/Leetcode-Questions/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/KA18202005/Leetcode-Questions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KA18202005/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KA18202005/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/KA18202005/Leetcode-Questions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
@@ -335,6 +336,7 @@ Happy Coding! 🚀
 | [2405-optimal-partition-of-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2405-optimal-partition-of-string) |
 | [2421-number-of-good-paths](https://github.com/KA18202005/Leetcode-Questions/tree/master/2421-number-of-good-paths) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KA18202005/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KA18202005/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1248,6 +1250,7 @@ Happy Coding! 🚀
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/0729-my-calendar-i) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KA18202005/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3525-find-x-value-of-array-ii) |
@@ -1305,6 +1308,7 @@ Happy Coding! 🚀
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KA18202005/Leetcode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 ## Merge Sort
 |  |
