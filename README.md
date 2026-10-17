@@ -87,6 +87,7 @@ Happy Coding! 🚀
 | [0055-jump-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/KA18202005/Leetcode-Questions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -735,6 +736,7 @@ Happy Coding! 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/KA18202005/Leetcode-Questions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0099-recover-binary-search-tree) |
@@ -825,6 +827,7 @@ Happy Coding! 🚀
 | ------- |
 | [0037-sudoku-solver](https://github.com/KA18202005/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/KA18202005/Leetcode-Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -961,6 +964,7 @@ Happy Coding! 🚀
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/KA18202005/Leetcode-Questions/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/KA18202005/Leetcode-Questions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0126-word-ladder-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
@@ -1430,6 +1434,7 @@ Happy Coding! 🚀
 | [0039-combination-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/KA18202005/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/KA18202005/Leetcode-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
