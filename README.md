@@ -714,6 +714,7 @@ Happy Coding! 🚀
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/KA18202005/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
+| [0543-diameter-of-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KA18202005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -745,6 +746,7 @@ Happy Coding! 🚀
 | [0341-flatten-nested-list-iterator](https://github.com/KA18202005/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0419-battleships-in-a-board](https://github.com/KA18202005/Leetcode-Questions/tree/master/0419-battleships-in-a-board) |
 | [0472-concatenated-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0472-concatenated-words) |
+| [0543-diameter-of-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/KA18202005/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KA18202005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1395,6 +1397,7 @@ Happy Coding! 🚀
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KA18202005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1508,6 +1511,7 @@ Happy Coding! 🚀
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/KA18202005/Leetcode-Questions/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Trie
