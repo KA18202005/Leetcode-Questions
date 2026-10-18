@@ -139,6 +139,7 @@ Happy Coding! 🚀
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0706-design-hashmap](https://github.com/KA18202005/Leetcode-Questions/tree/master/0706-design-hashmap) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/KA18202005/Leetcode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/KA18202005/Leetcode-Questions/tree/master/0722-remove-comments) |
 | [0729-my-calendar-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/KA18202005/Leetcode-Questions/tree/master/0733-flood-fill) |
@@ -305,6 +306,7 @@ Happy Coding! 🚀
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KA18202005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0691-stickers-to-spell-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0691-stickers-to-spell-word) |
 | [0706-design-hashmap](https://github.com/KA18202005/Leetcode-Questions/tree/master/0706-design-hashmap) |
+| [0721-accounts-merge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0792-number-of-matching-subsequences) |
@@ -402,6 +404,7 @@ Happy Coding! 🚀
 | [0200-number-of-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/KA18202005/Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/KA18202005/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/KA18202005/Leetcode-Questions/tree/master/0839-similar-string-groups) |
@@ -664,6 +667,7 @@ Happy Coding! 🚀
 | [0628-maximum-product-of-three-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/KA18202005/Leetcode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0791-custom-sort-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0791-custom-sort-string) |
@@ -765,6 +769,7 @@ Happy Coding! 🚀
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KA18202005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/KA18202005/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0753-cracking-the-safe](https://github.com/KA18202005/Leetcode-Questions/tree/master/0753-cracking-the-safe) |
 | [0785-is-graph-bipartite](https://github.com/KA18202005/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
@@ -806,6 +811,7 @@ Happy Coding! 🚀
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KA18202005/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/KA18202005/Leetcode-Questions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/KA18202005/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/KA18202005/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KA18202005/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1004,6 +1010,7 @@ Happy Coding! 🚀
 | [0680-valid-palindrome-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/KA18202005/Leetcode-Questions/tree/master/0686-repeated-string-match) |
 | [0691-stickers-to-spell-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0691-stickers-to-spell-word) |
+| [0721-accounts-merge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/KA18202005/Leetcode-Questions/tree/master/0722-remove-comments) |
 | [0753-cracking-the-safe](https://github.com/KA18202005/Leetcode-Questions/tree/master/0753-cracking-the-safe) |
 | [0767-reorganize-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0767-reorganize-string) |
