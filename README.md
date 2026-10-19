@@ -219,6 +219,7 @@ Happy Coding! 🚀
 | [2028-find-missing-observations](https://github.com/KA18202005/Leetcode-Questions/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/KA18202005/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 | [2055-plates-between-candles](https://github.com/KA18202005/Leetcode-Questions/tree/master/2055-plates-between-candles) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/KA18202005/Leetcode-Questions/tree/master/2097-valid-arrangement-of-pairs) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/KA18202005/Leetcode-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -387,6 +388,7 @@ Happy Coding! 🚀
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KA18202005/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2055-plates-between-candles](https://github.com/KA18202005/Leetcode-Questions/tree/master/2055-plates-between-candles) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KA18202005/Leetcode-Questions/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
@@ -691,6 +693,7 @@ Happy Coding! 🚀
 | [1710-maximum-units-on-a-truck](https://github.com/KA18202005/Leetcode-Questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/KA18202005/Leetcode-Questions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KA18202005/Leetcode-Questions/tree/master/2332-the-latest-time-to-catch-a-bus) |
