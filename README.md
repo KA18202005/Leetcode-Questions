@@ -101,6 +101,7 @@ Happy Coding! 🚀
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KA18202005/Leetcode-Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0260-single-number-iii) |
@@ -879,6 +880,7 @@ Happy Coding! 🚀
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/KA18202005/Leetcode-Questions/tree/master/1291-sequential-digits) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/KA18202005/Leetcode-Questions/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/KA18202005/Leetcode-Questions/tree/master/2162-minimum-cost-to-set-cooking-time) |
@@ -899,6 +901,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/KA18202005/Leetcode-Questions/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0384-shuffle-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0384-shuffle-an-array) |
@@ -968,6 +971,7 @@ Happy Coding! 🚀
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0204-count-primes) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KA18202005/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1761,4 +1765,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KA18202005/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
