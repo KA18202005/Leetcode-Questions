@@ -105,6 +105,7 @@ Happy Coding! 🚀
 | [0215-kth-largest-element-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0275-h-index-ii) |
 | [0312-burst-balloons](https://github.com/KA18202005/Leetcode-Questions/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KA18202005/Leetcode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -296,6 +297,7 @@ Happy Coding! 🚀
 | [0128-longest-consecutive-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0229-majority-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/0389-find-the-difference) |
@@ -368,6 +370,7 @@ Happy Coding! 🚀
 | [0004-median-of-two-sorted-arrays](https://github.com/KA18202005/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/KA18202005/Leetcode-Questions/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KA18202005/Leetcode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -637,6 +640,7 @@ Happy Coding! 🚀
 | [0078-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0260-single-number-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0464-can-i-win](https://github.com/KA18202005/Leetcode-Questions/tree/master/0464-can-i-win) |
@@ -664,6 +668,7 @@ Happy Coding! 🚀
 | [0015-3sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/KA18202005/Leetcode-Questions/tree/master/0332-reconstruct-itinerary) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -906,6 +911,7 @@ Happy Coding! 🚀
 | ------- |
 | [0204-count-primes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/KA18202005/Leetcode-Questions/tree/master/0233-number-of-digit-one) |
+| [0268-missing-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0384-shuffle-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/KA18202005/Leetcode-Questions/tree/master/0398-random-pick-index) |
