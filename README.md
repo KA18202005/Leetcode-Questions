@@ -464,6 +464,7 @@ Happy Coding! 🚀
 | [0031-next-permutation](https://github.com/KA18202005/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/KA18202005/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/KA18202005/Leetcode-Questions/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/KA18202005/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/KA18202005/Leetcode-Questions/tree/master/0455-assign-cookies) |
@@ -1002,6 +1003,7 @@ Happy Coding! 🚀
 | [0044-wildcard-matching](https://github.com/KA18202005/Leetcode-Questions/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/KA18202005/Leetcode-Questions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/KA18202005/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/KA18202005/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
