@@ -298,6 +298,7 @@ Happy Coding! 🚀
 | [0128-longest-consecutive-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0229-majority-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/KA18202005/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -671,6 +672,7 @@ Happy Coding! 🚀
 | [0015-3sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/KA18202005/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/KA18202005/Leetcode-Questions/tree/master/0332-reconstruct-itinerary) |
@@ -1011,6 +1013,7 @@ Happy Coding! 🚀
 | [0132-palindrome-partitioning-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0214-shortest-palindrome](https://github.com/KA18202005/Leetcode-Questions/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/KA18202005/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
