@@ -1021,6 +1021,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/KA18202005/Leetcode-Questions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/KA18202005/Leetcode-Questions/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/KA18202005/Leetcode-Questions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
