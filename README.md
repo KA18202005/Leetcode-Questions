@@ -77,6 +77,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KA18202005/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/KA18202005/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/KA18202005/Leetcode-Questions/tree/master/0037-sudoku-solver) |
@@ -1013,6 +1014,7 @@ Happy Coding! 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/KA18202005/Leetcode-Questions/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0022-generate-parentheses) |
@@ -1596,6 +1598,7 @@ Happy Coding! 🚀
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0472-concatenated-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0472-concatenated-words) |
