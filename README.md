@@ -86,6 +86,7 @@ Happy Coding! 🚀
 | [0053-maximum-subarray](https://github.com/KA18202005/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/KA18202005/Leetcode-Questions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -377,6 +378,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KA18202005/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0268-missing-number) |
@@ -872,6 +874,7 @@ Happy Coding! 🚀
 | ------- |
 | [0037-sudoku-solver](https://github.com/KA18202005/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/KA18202005/Leetcode-Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
