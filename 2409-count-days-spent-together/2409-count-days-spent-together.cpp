@@ -13,6 +13,6 @@ public:
         int bStart = toDay(arriveBob), bEnd = toDay(leaveBob);
         int start = max(aStart, bStart);
         int end = min(aEnd, bEnd);
-        return start <= end ? end - start + 1;
+        return start <= end ? end - start + 1 : 0;
     }
 };
