@@ -977,6 +977,7 @@ Happy Coding! 🚀
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/KA18202005/Leetcode-Questions/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/KA18202005/Leetcode-Questions/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/KA18202005/Leetcode-Questions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KA18202005/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1104,6 +1105,7 @@ Happy Coding! 🚀
 | [2262-total-appeal-of-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2262-total-appeal-of-a-string) |
 | [2272-substring-with-largest-variance](https://github.com/KA18202005/Leetcode-Questions/tree/master/2272-substring-with-largest-variance) |
 | [2405-optimal-partition-of-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2405-optimal-partition-of-string) |
+| [2409-count-days-spent-together](https://github.com/KA18202005/Leetcode-Questions/tree/master/2409-count-days-spent-together) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2484-count-palindromic-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/2484-count-palindromic-subsequences) |
