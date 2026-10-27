@@ -91,6 +91,7 @@ Happy Coding! 🚀
 | [0078-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/KA18202005/Leetcode-Questions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/KA18202005/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -511,6 +512,7 @@ Happy Coding! 🚀
 | [0053-maximum-subarray](https://github.com/KA18202005/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/KA18202005/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -878,6 +880,7 @@ Happy Coding! 🚀
 | [0063-unique-paths-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/KA18202005/Leetcode-Questions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/KA18202005/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KA18202005/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -1291,6 +1294,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KA18202005/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KA18202005/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/KA18202005/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/KA18202005/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/KA18202005/Leetcode-Questions/tree/master/0316-remove-duplicate-letters) |
@@ -1321,6 +1325,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KA18202005/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/KA18202005/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/KA18202005/Leetcode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/KA18202005/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
