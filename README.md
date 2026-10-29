@@ -1377,6 +1377,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/KA18202005/Leetcode-Questions/tree/master/0061-rotate-list) |
+| [0328-odd-even-linked-list](https://github.com/KA18202005/Leetcode-Questions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/KA18202005/Leetcode-Questions/tree/master/0460-lfu-cache) |
 | [0706-design-hashmap](https://github.com/KA18202005/Leetcode-Questions/tree/master/0706-design-hashmap) |
