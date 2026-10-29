@@ -759,6 +759,7 @@ Happy Coding! 🚀
 | [0102-binary-tree-level-order-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -791,6 +792,7 @@ Happy Coding! 🚀
 | [0098-validate-binary-search-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
@@ -1491,6 +1493,7 @@ Happy Coding! 🚀
 | [0102-binary-tree-level-order-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
