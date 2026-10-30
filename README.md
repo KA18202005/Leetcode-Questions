@@ -474,6 +474,7 @@ Happy Coding! 🚀
 | [3310-remove-methods-from-project](https://github.com/KA18202005/Leetcode-Questions/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1142,6 +1143,7 @@ Happy Coding! 🚀
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/KA18202005/Leetcode-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1298,6 +1300,7 @@ Happy Coding! 🚀
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KA18202005/Leetcode-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Randomized
 |  |
 | ------- |
@@ -1801,6 +1804,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KA18202005/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KA18202005/Leetcode-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bidirectional Search
 |  |
 | ------- |
