@@ -2,8 +2,7 @@ class Solution {
 private:
     void findCombination(int ind, int target, int k, vector<int> &arr, vector<vector<int>> &ans, vector<int> &ds) {   
         if (target == 0) {
-            if (ds.size() == k)
-                ans.push_back(ds);
+            if (ds.size() == k) ans.push_back(ds);
             return;
         }
         for (int i = ind; i < arr.size(); i++) {
