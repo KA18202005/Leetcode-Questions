@@ -311,6 +311,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/KA18202005/Leetcode-Questions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0229-majority-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0229-majority-element-ii) |
@@ -869,6 +870,7 @@ Happy Coding! 🚀
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KA18202005/Leetcode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/KA18202005/Leetcode-Questions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/KA18202005/Leetcode-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0210-course-schedule-ii) |
@@ -1070,6 +1072,7 @@ Happy Coding! 🚀
 | [0115-distinct-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/KA18202005/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/KA18202005/Leetcode-Questions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/KA18202005/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0140-word-break-ii) |
@@ -1843,6 +1846,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/KA18202005/Leetcode-Questions/tree/master/0127-word-ladder) |
 ## Complete Knapsack
 |  |
 | ------- |
