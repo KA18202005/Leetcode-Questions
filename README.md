@@ -150,6 +150,7 @@ Happy Coding! 🚀
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/KA18202005/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/KA18202005/Leetcode-Questions/tree/master/0706-design-hashmap) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KA18202005/Leetcode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/KA18202005/Leetcode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/KA18202005/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/KA18202005/Leetcode-Questions/tree/master/0722-remove-comments) |
@@ -564,6 +565,7 @@ Happy Coding! 🚀
 | [0688-knight-probability-in-chessboard](https://github.com/KA18202005/Leetcode-Questions/tree/master/0688-knight-probability-in-chessboard) |
 | [0691-stickers-to-spell-word](https://github.com/KA18202005/Leetcode-Questions/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KA18202005/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KA18202005/Leetcode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/KA18202005/Leetcode-Questions/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KA18202005/Leetcode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0792-number-of-matching-subsequences](https://github.com/KA18202005/Leetcode-Questions/tree/master/0792-number-of-matching-subsequences) |
@@ -638,6 +640,7 @@ Happy Coding! 🚀
 | [0670-maximum-swap](https://github.com/KA18202005/Leetcode-Questions/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KA18202005/Leetcode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KA18202005/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
