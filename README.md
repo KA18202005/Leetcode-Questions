@@ -993,6 +993,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KA18202005/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/KA18202005/Leetcode-Questions/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/KA18202005/Leetcode-Questions/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/KA18202005/Leetcode-Questions/tree/master/0268-missing-number) |
@@ -1523,6 +1524,7 @@ Happy Coding! 🚀
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KA18202005/Leetcode-Questions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/KA18202005/Leetcode-Questions/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/KA18202005/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0233-number-of-digit-one](https://github.com/KA18202005/Leetcode-Questions/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/KA18202005/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/KA18202005/Leetcode-Questions/tree/master/0486-predict-the-winner) |
