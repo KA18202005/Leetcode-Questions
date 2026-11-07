@@ -229,6 +229,7 @@ Happy Coding! 🚀
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/KA18202005/Leetcode-Questions/tree/master/1882-process-tasks-using-servers) |
 | [1901-find-a-peak-element-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/KA18202005/Leetcode-Questions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
@@ -1351,6 +1352,7 @@ Happy Coding! 🚀
 | [1631-path-with-minimum-effort](https://github.com/KA18202005/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/KA18202005/Leetcode-Questions/tree/master/1642-furthest-building-you-can-reach) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/KA18202005/Leetcode-Questions/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1882-process-tasks-using-servers](https://github.com/KA18202005/Leetcode-Questions/tree/master/1882-process-tasks-using-servers) |
 | [2034-stock-price-fluctuation](https://github.com/KA18202005/Leetcode-Questions/tree/master/2034-stock-price-fluctuation) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/KA18202005/Leetcode-Questions/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KA18202005/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
