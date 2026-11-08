@@ -194,6 +194,7 @@ Happy Coding! 🚀
 | [1232-check-if-it-is-a-straight-line](https://github.com/KA18202005/Leetcode-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KA18202005/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/KA18202005/Leetcode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KA18202005/Leetcode-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/KA18202005/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -459,6 +460,7 @@ Happy Coding! 🚀
 | [1020-number-of-enclaves](https://github.com/KA18202005/Leetcode-Questions/tree/master/1020-number-of-enclaves) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1254-number-of-closed-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/KA18202005/Leetcode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/KA18202005/Leetcode-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KA18202005/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/KA18202005/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
@@ -872,6 +874,7 @@ Happy Coding! 🚀
 | [1192-critical-connections-in-a-network](https://github.com/KA18202005/Leetcode-Questions/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/KA18202005/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1254-number-of-closed-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/KA18202005/Leetcode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/KA18202005/Leetcode-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/KA18202005/Leetcode-Questions/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -922,6 +925,7 @@ Happy Coding! 🚀
 | [1096-brace-expansion-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/KA18202005/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1254-number-of-closed-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/KA18202005/Leetcode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/KA18202005/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/KA18202005/Leetcode-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/KA18202005/Leetcode-Questions/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -957,6 +961,7 @@ Happy Coding! 🚀
 | [0994-rotting-oranges](https://github.com/KA18202005/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/KA18202005/Leetcode-Questions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/KA18202005/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/KA18202005/Leetcode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/KA18202005/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
@@ -1228,6 +1233,7 @@ Happy Coding! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0767-reorganize-string) |
 | [0900-rle-iterator](https://github.com/KA18202005/Leetcode-Questions/tree/master/0900-rle-iterator) |
+| [1267-count-servers-that-communicate](https://github.com/KA18202005/Leetcode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1366-rank-teams-by-votes](https://github.com/KA18202005/Leetcode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1603-design-parking-system](https://github.com/KA18202005/Leetcode-Questions/tree/master/1603-design-parking-system) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/KA18202005/Leetcode-Questions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
