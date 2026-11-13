@@ -283,6 +283,7 @@ Happy Coding! 🚀
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KA18202005/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KA18202005/Leetcode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KA18202005/Leetcode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KA18202005/Leetcode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1345,6 +1346,7 @@ Happy Coding! 🚀
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KA18202005/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KA18202005/Leetcode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KA18202005/Leetcode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KA18202005/Leetcode-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
@@ -1411,6 +1413,7 @@ Happy Coding! 🚀
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2104-sum-of-subarray-ranges](https://github.com/KA18202005/Leetcode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/KA18202005/Leetcode-Questions/tree/master/2281-sum-of-total-strength-of-wizards) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KA18202005/Leetcode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1428,6 +1431,7 @@ Happy Coding! 🚀
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/KA18202005/Leetcode-Questions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2104-sum-of-subarray-ranges](https://github.com/KA18202005/Leetcode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/KA18202005/Leetcode-Questions/tree/master/2281-sum-of-total-strength-of-wizards) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KA18202005/Leetcode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1437,6 +1441,7 @@ Happy Coding! 🚀
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KA18202005/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KA18202005/Leetcode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -1531,6 +1536,7 @@ Happy Coding! 🚀
 | [0341-flatten-nested-list-iterator](https://github.com/KA18202005/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KA18202005/Leetcode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Iterator
 |  |
 | ------- |
@@ -1687,6 +1693,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/KA18202005/Leetcode-Questions/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KA18202005/Leetcode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Data Stream
 |  |
 | ------- |
