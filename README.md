@@ -284,6 +284,7 @@ Happy Coding! 🚀
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KA18202005/Leetcode-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KA18202005/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/KA18202005/Leetcode-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KA18202005/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/KA18202005/Leetcode-Questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KA18202005/Leetcode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -393,6 +394,7 @@ Happy Coding! 🚀
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KA18202005/Leetcode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KA18202005/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/KA18202005/Leetcode-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KA18202005/Leetcode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KA18202005/Leetcode-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -844,6 +846,7 @@ Happy Coding! 🚀
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KA18202005/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2421-number-of-good-paths](https://github.com/KA18202005/Leetcode-Questions/tree/master/2421-number-of-good-paths) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/KA18202005/Leetcode-Questions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/KA18202005/Leetcode-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -904,6 +907,7 @@ Happy Coding! 🚀
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/KA18202005/Leetcode-Questions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/KA18202005/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/KA18202005/Leetcode-Questions/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/KA18202005/Leetcode-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -1212,6 +1216,7 @@ Happy Coding! 🚀
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KA18202005/Leetcode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KA18202005/Leetcode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/KA18202005/Leetcode-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/KA18202005/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
