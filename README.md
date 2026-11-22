@@ -1196,6 +1196,7 @@ Happy Coding! 🚀
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/KA18202005/Leetcode-Questions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/KA18202005/Leetcode-Questions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/KA18202005/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/KA18202005/Leetcode-Questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/KA18202005/Leetcode-Questions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KA18202005/Leetcode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/KA18202005/Leetcode-Questions/tree/master/2222-number-of-ways-to-select-buildings) |
