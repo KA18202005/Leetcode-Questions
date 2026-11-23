@@ -200,6 +200,7 @@ Happy Coding! 🚀
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/KA18202005/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1331-rank-transform-of-an-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1349-maximum-students-taking-exam](https://github.com/KA18202005/Leetcode-Questions/tree/master/1349-maximum-students-taking-exam) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1366-rank-teams-by-votes](https://github.com/KA18202005/Leetcode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KA18202005/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/KA18202005/Leetcode-Questions/tree/master/1386-cinema-seat-allocation) |
@@ -1054,6 +1055,7 @@ Happy Coding! 🚀
 | [1140-stone-game-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/KA18202005/Leetcode-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KA18202005/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/KA18202005/Leetcode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KA18202005/Leetcode-Questions/tree/master/1510-stone-game-iv) |
@@ -1306,6 +1308,7 @@ Happy Coding! 🚀
 | [0901-online-stock-span](https://github.com/KA18202005/Leetcode-Questions/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/KA18202005/Leetcode-Questions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/KA18202005/Leetcode-Questions/tree/master/1146-snapshot-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1603-design-parking-system](https://github.com/KA18202005/Leetcode-Questions/tree/master/1603-design-parking-system) |
 | [2013-detect-squares](https://github.com/KA18202005/Leetcode-Questions/tree/master/2013-detect-squares) |
 | [2034-stock-price-fluctuation](https://github.com/KA18202005/Leetcode-Questions/tree/master/2034-stock-price-fluctuation) |
@@ -1335,6 +1338,7 @@ Happy Coding! 🚀
 | [1004-max-consecutive-ones-iii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KA18202005/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KA18202005/Leetcode-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KA18202005/Leetcode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KA18202005/Leetcode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1724,6 +1728,7 @@ Happy Coding! 🚀
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KA18202005/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/KA18202005/Leetcode-Questions/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KA18202005/Leetcode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2013-detect-squares](https://github.com/KA18202005/Leetcode-Questions/tree/master/2013-detect-squares) |
 | [2034-stock-price-fluctuation](https://github.com/KA18202005/Leetcode-Questions/tree/master/2034-stock-price-fluctuation) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/KA18202005/Leetcode-Questions/tree/master/2102-sequentially-ordinal-rank-tracker) |
