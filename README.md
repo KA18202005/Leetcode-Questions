@@ -320,6 +320,7 @@ Happy Coding! 🚀
 | [3886-sum-of-sortable-integers](https://github.com/KA18202005/Leetcode-Questions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/KA18202005/Leetcode-Questions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/KA18202005/Leetcode-Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -407,6 +408,7 @@ Happy Coding! 🚀
 | [3718-smallest-missing-multiple-of-k](https://github.com/KA18202005/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KA18202005/Leetcode-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/KA18202005/Leetcode-Questions/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/KA18202005/Leetcode-Questions/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -454,6 +456,7 @@ Happy Coding! 🚀
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KA18202005/Leetcode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KA18202005/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3934-smallest-unique-subarray](https://github.com/KA18202005/Leetcode-Questions/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -1648,6 +1651,7 @@ Happy Coding! 🚀
 | [0214-shortest-palindrome](https://github.com/KA18202005/Leetcode-Questions/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/KA18202005/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0706-design-hashmap](https://github.com/KA18202005/Leetcode-Questions/tree/master/0706-design-hashmap) |
+| [3934-smallest-unique-subarray](https://github.com/KA18202005/Leetcode-Questions/tree/master/3934-smallest-unique-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -1958,6 +1962,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/KA18202005/Leetcode-Questions/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/KA18202005/Leetcode-Questions/tree/master/3934-smallest-unique-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -1986,4 +1991,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/KA18202005/Leetcode-Questions/tree/master/0802-find-eventual-safe-states) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/KA18202005/Leetcode-Questions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
